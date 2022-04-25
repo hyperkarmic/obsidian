@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1d2fc81d23f95464",
+        "id": "416a77ec0b9a7441",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "git/git pull rebase.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ob",
+                "query": "#git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "git/git pull rebase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -75,24 +81,84 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "2f60754c3afc00dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git/git pull rebase.md"
+              }
+            }
+          },
+          {
+            "id": "67e9c3ac13eea60e",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "613e8183c4de20a9",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "d372abdbbb9147d4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2b8c65a4d9629db",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd4bcd394ebd47b4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d2fd06ac35350c1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "1d2fc81d23f95464",
+  "active": "416a77ec0b9a7441",
   "lastOpenFiles": [
-    "mission statement.md",
-    "git/Git log.md",
-    "obsidian/Obsidian.md",
     "git/git pull rebase.md",
-    "vscode/Shortcuts.md",
-    "REACT/react.md",
-    "REACT/props.md",
-    "a gif.md",
-    "test-file.md"
+    "obsidian/Daily Questions in Obsidian.md",
+    "obsidian/Journaling.md",
+    "obsidian/Productivity.md",
+    "obsidian/Intro to Personal Knowledge Management.md",
+    "obsidian/Start Here.md",
+    "git/Git log.md",
+    "Pasted image 20220425125205.png",
+    "Untitled Kanban.md",
+    "Untitled.md"
   ]
 }
