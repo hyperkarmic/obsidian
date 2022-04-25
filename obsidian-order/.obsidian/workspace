@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "ee72d34dcbd8d3e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d2fc81d23f95464",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a7829357758c7a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "de04940aff4ee7b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f9243e1373e8530",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "39670b2f27fa8e18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ob",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "554515bf18dc56f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb757ce38a7ca8c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e75a8aeef819ce88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1d2fc81d23f95464",
+  "lastOpenFiles": [
+    "mission statement.md",
+    "git/Git log.md",
+    "obsidian/Obsidian.md",
+    "git/git pull rebase.md",
+    "vscode/Shortcuts.md",
+    "REACT/react.md",
+    "REACT/props.md",
+    "a gif.md",
+    "test-file.md"
+  ]
+}
