@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "416a77ec0b9a7441",
+        "id": "f175f5e27ecc6497",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "git/git pull rebase.md",
+            "file": "git/check-repo-urlss.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#git",
+                "query": "bosh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git pull rebase.md",
+                "file": "git/check-repo-urlss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git pull rebase.md"
+                "file": "git/check-repo-urlss.md"
               }
             }
           },
@@ -125,14 +124,6 @@
             }
           },
           {
-            "id": "fd4bcd394ebd47b4",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
             "id": "6d2fd06ac35350c1",
             "type": "leaf",
             "state": {
@@ -141,24 +132,23 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "416a77ec0b9a7441",
+  "active": "f175f5e27ecc6497",
   "lastOpenFiles": [
+    "git/check-repo-urlss.md",
     "git/git pull rebase.md",
-    "obsidian/Daily Questions in Obsidian.md",
-    "obsidian/Journaling.md",
-    "obsidian/Productivity.md",
-    "obsidian/Intro to Personal Knowledge Management.md",
-    "obsidian/Start Here.md",
+    "git/git-highlight.md",
     "git/Git log.md",
-    "Pasted image 20220425125205.png",
-    "Untitled Kanban.md",
-    "Untitled.md"
+    "git/gitNode.md",
+    "git-highlight.md",
+    "Untitled.md",
+    "google/google.md",
+    "bosh.md",
+    "Untitled 1.md"
   ]
 }
