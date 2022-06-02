@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f175f5e27ecc6497",
+        "id": "f27c64348f438247",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "git/check-repo-urlss.md",
+            "file": "PHP/XAMPP.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bosh",
+                "query": "#php",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/check-repo-urlss.md",
+                "file": "PHP/XAMPP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/check-repo-urlss.md"
+                "file": "PHP/XAMPP.md"
               }
             }
           },
@@ -131,24 +131,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f175f5e27ecc6497",
+  "active": "f27c64348f438247",
   "lastOpenFiles": [
+    "PHP/XAMPP.md",
+    "git/Git log.md",
+    "git/restore.md",
+    "git/gitignore.md",
+    "git/HEAD.md",
     "git/check-repo-urlss.md",
     "git/git pull rebase.md",
     "git/git-highlight.md",
-    "git/Git log.md",
     "git/gitNode.md",
-    "git-highlight.md",
-    "Untitled.md",
-    "google/google.md",
-    "bosh.md",
-    "Untitled 1.md"
+    "git-highlight.md"
   ]
 }
