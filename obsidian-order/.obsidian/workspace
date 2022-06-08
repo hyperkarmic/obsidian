@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f27c64348f438247",
+        "id": "0c75c166b5da7d24",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/XAMPP.md",
+            "file": "REACT/Untitled.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#php",
+                "query": "git-delete",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,6 +61,20 @@
     "type": "split",
     "children": [
       {
+        "id": "1dcebce682d8891f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d372abdbbb9147d4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "bb757ce38a7ca8c4",
         "type": "tabs",
         "children": [
@@ -70,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/XAMPP.md",
+                "file": "REACT/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP/XAMPP.md"
+                "file": "REACT/Untitled.md"
               }
             }
           },
@@ -104,14 +118,6 @@
             "type": "leaf",
             "state": {
               "type": "BC-tree",
-              "state": {}
-            }
-          },
-          {
-            "id": "d372abdbbb9147d4",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           },
@@ -137,17 +143,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f27c64348f438247",
+  "active": "0c75c166b5da7d24",
   "lastOpenFiles": [
-    "PHP/XAMPP.md",
-    "git/Git log.md",
-    "git/restore.md",
+    "REACT/Untitled.md",
+    "git/abort merge.md",
+    "git/change remote name.md",
+    "git/delete.md",
+    "git/git config -l.md",
     "git/gitignore.md",
-    "git/HEAD.md",
-    "git/check-repo-urlss.md",
     "git/git pull rebase.md",
+    "git/git remote -v.md",
     "git/git-highlight.md",
-    "git/gitNode.md",
-    "git-highlight.md"
+    "git/restore.md"
   ]
 }
