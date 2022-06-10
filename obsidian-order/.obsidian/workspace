@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c75c166b5da7d24",
+        "id": "a4e34ae5878e5979",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "REACT/Untitled.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -41,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git-delete",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,9 +94,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "REACT/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,17 +135,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0c75c166b5da7d24",
+  "active": "a4e34ae5878e5979",
   "lastOpenFiles": [
-    "REACT/Untitled.md",
-    "git/abort merge.md",
-    "git/change remote name.md",
-    "git/delete.md",
-    "git/git config -l.md",
-    "git/gitignore.md",
-    "git/git pull rebase.md",
-    "git/git remote -v.md",
-    "git/git-highlight.md",
-    "git/restore.md"
+    "agile/scrum meeting.md",
+    "agile/scrum sprint.md",
+    "agile/manifesto.md",
+    "agile/scrum.md",
+    "google/google.md",
+    "linux/terminal search.md",
+    "linux/script.md",
+    "linux/linuxNode.md",
+    "mongoose/mongoose-scratchpad.md",
+    "REACT/Untitled.md"
   ]
 }
