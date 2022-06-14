@@ -7,8 +7,13 @@
         "id": "a4e34ae5878e5979",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "nlp/thinking  hats.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "tag:#👮🏾",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 303
   },
   "right": {
     "id": "554515bf18dc56f9",
@@ -79,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "nlp/thinking  hats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +100,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "nlp/thinking  hats.md"
+              }
             }
           },
           {
@@ -133,19 +141,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 305,
+    "collapsed": true
   },
   "active": "a4e34ae5878e5979",
   "lastOpenFiles": [
+    "nlp/thinking  hats.md",
+    "nlp/thinking hats defined.md",
+    "nlp/img/thinking.jpg",
+    "agile/waterfall.md",
+    "design/linx.md",
+    "agile/Untitled 1.md",
     "agile/scrum meeting.md",
-    "agile/scrum sprint.md",
-    "agile/manifesto.md",
-    "agile/scrum.md",
-    "google/google.md",
-    "linux/terminal search.md",
-    "linux/script.md",
-    "linux/linuxNode.md",
-    "mongoose/mongoose-scratchpad.md",
-    "REACT/Untitled.md"
+    "agile/Untitled.md",
+    "coding/declarativeVSimperative.md",
+    "js/callback.md"
   ]
 }
