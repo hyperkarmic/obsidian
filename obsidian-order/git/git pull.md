@@ -1,0 +1,5 @@
+## git pull
+
+The **git pull** command is used to get updates from the remote repo. This command is a combination of **git fetch** and **git merge** which means that, when we use git pull, it gets the updates from remote repository (git fetch) and immediately applies the latest changes in your local (git merge).
+
+#git #git-pull #git-pull 

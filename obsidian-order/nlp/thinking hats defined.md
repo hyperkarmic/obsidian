@@ -1,4 +1,5 @@
 ## Thinking hats
+![[thinking.jpg]]
 ### white hat 👒⚗️🤍
 ### red hat  ⛑️🔥❤️
 -   **Red Hat:** Gives permission to forward hunches without needing to justify them.

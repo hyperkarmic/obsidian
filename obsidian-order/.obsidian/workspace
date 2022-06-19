@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "nlp/thinking  hats.md",
+            "file": "express/MIDDLEWARE.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#👮🏾",
+                "query": "cherry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303
+    "width": 301
   },
   "right": {
     "id": "554515bf18dc56f9",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nlp/thinking  hats.md",
+                "file": "express/MIDDLEWARE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nlp/thinking  hats.md"
+                "file": "express/MIDDLEWARE.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "a4e34ae5878e5979",
   "lastOpenFiles": [
-    "nlp/thinking  hats.md",
-    "nlp/thinking hats defined.md",
-    "nlp/img/thinking.jpg",
-    "agile/waterfall.md",
+    "express/MIDDLEWARE.md",
+    "js/first claSS FUNCTIONS.md",
+    "this/this.md",
     "design/linx.md",
-    "agile/Untitled 1.md",
-    "agile/scrum meeting.md",
-    "agile/Untitled.md",
-    "coding/declarativeVSimperative.md",
-    "js/callback.md"
+    "objects/Untitled.md",
+    "quotes/Untitled.md",
+    "js/Untitled.md",
+    "currying/Untitled.md",
+    "coding/Untitled.md",
+    "closures/Untitled.md"
   ]
 }
