@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a4e34ae5878e5979",
+        "id": "112c10addd34c5d1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "express/MIDDLEWARE.md",
+            "file": "nlp-books/Power Of Positive Thinking.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,11 +41,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cherry",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "query": "closure",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301
+    "width": 296
   },
   "right": {
     "id": "554515bf18dc56f9",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "express/MIDDLEWARE.md",
+                "file": "nlp-books/Power Of Positive Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "express/MIDDLEWARE.md"
+                "file": "nlp-books/Power Of Positive Thinking.md"
               }
             }
           },
@@ -141,20 +141,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305,
-    "collapsed": true
+    "width": 265
   },
-  "active": "a4e34ae5878e5979",
+  "active": "112c10addd34c5d1",
   "lastOpenFiles": [
-    "express/MIDDLEWARE.md",
-    "js/first claSS FUNCTIONS.md",
-    "this/this.md",
-    "design/linx.md",
-    "objects/Untitled.md",
-    "quotes/Untitled.md",
-    "js/Untitled.md",
-    "currying/Untitled.md",
-    "coding/Untitled.md",
-    "closures/Untitled.md"
+    "nlp-books/Power Of Positive Thinking.md",
+    "nlp-books/How to take notes.md",
+    "nlp-books/7 habits of effective people.md",
+    "nlp-books/Meditations.md",
+    "nlp-books/The Monk Who Sold Me His Ferrari.md",
+    "nlp-books/Rework.md",
+    "nlp-books/Rich dad - Poor Dad.md",
+    "nlp-books/Sapiens.md",
+    "nlp-books/Enchiiridion.md",
+    "nlp-books/Good To Great.md"
   ]
 }

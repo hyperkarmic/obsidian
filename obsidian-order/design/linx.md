@@ -25,6 +25,8 @@
 [readme.so](https://readme.so/)
 [Meta Tags — Preview, Edit and Generate](https://metatags.io/)
 [The best Favicon Generator (completely free) - favicon.io](https://favicon.io/)
+[Color Palettes for Designers and Artists - Color Hunt](https://colorhunt.co/)
+
 
  
  

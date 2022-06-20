@@ -1,5 +1,5 @@
-# switch
+# git switch
+#### git switch -c branchname
+###### pretty much another way of doing got checkput -b branchname
 
-git switch -c === git checkout -b
-
-#git #switch 
+#git #switch #git-switch
