@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "112c10addd34c5d1",
+        "id": "00542452c1309b01",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "nlp-books/Power Of Positive Thinking.md",
+            "file": "functions/functions-definition.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "closure",
+                "query": "expression",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296
+    "width": 293
   },
   "right": {
     "id": "554515bf18dc56f9",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nlp-books/Power Of Positive Thinking.md",
+                "file": "functions/functions-definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nlp-books/Power Of Positive Thinking.md"
+                "file": "functions/functions-definition.md"
               }
             }
           },
@@ -143,17 +143,17 @@
     "direction": "horizontal",
     "width": 265
   },
-  "active": "112c10addd34c5d1",
+  "active": "00542452c1309b01",
   "lastOpenFiles": [
-    "nlp-books/Power Of Positive Thinking.md",
-    "nlp-books/How to take notes.md",
-    "nlp-books/7 habits of effective people.md",
-    "nlp-books/Meditations.md",
-    "nlp-books/The Monk Who Sold Me His Ferrari.md",
-    "nlp-books/Rework.md",
-    "nlp-books/Rich dad - Poor Dad.md",
-    "nlp-books/Sapiens.md",
-    "nlp-books/Enchiiridion.md",
-    "nlp-books/Good To Great.md"
+    "functions/functions-definition.md",
+    "functional/#.md",
+    "front end/Untitled.md",
+    "functions/1st class functions.md",
+    "front end/component library.md",
+    "coding/fork.md",
+    "coding/expression.md",
+    "coding/dependency injection.md",
+    "execution context/execution phase.md",
+    "execution context/definition.md"
   ]
 }

@@ -1,8 +1,9 @@
-# React Router
+## Virtual DOM
 
-## Why react-router?
+A virtual DOM is a lightweight JavaScript representation of the DOM used in declarative web frameworks such as React, Vue.js, and Elm.
+<hr>
 
-React itself does not contain a library for page routing. Thus, the standard library for routing in React, ‘react-router-dom’ can be installed as an external library which is the favored mechanism to adopt routing in react applications. It maps user interfaces to browser URLs, keep tab of history stack (so one can navigate back and forth) and allows to render nested UI by matching routes.
+#### **DOM** operations might be really powerful, it comes at a huge cost. It's _one of the slowest operations_ in the world of web dev. To reduce the number of **DOM** operations, we use the **Virtual DOM** to modify the **DOM** if it really requires any modification and not every time something changes.
 
-#react #router
-#react-router
+#DOM #virtual-dom
+#react 

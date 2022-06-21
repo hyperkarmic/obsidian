@@ -1,0 +1,9 @@
+# CI/CD
+**CI/CD** is a method to frequently deliver apps to customers by **introducing automation into the stages of app development**. The main concepts attributed to **CI/CD** are **continuous integration**, **continuous delivery**, and **continuous deployment**. **CI/CD** is a solution to the problems integrating new code can cause for development and operations teams
+<hr>
+ **Continuous Delivery:**Continuous Delivery (CD) is the process of integrating or merging the newly built and tested code to a repository or main branch within a repository. This can also include the delivery of new build artifacts or packages, such as new container images to an image repository. CD confusingly also has another related abbreviated meaning which is Continuous Deployment, this is the process of pushing newly delivered code or features to a production environment where they would be usable by customers [3]. For Continuous Deployment to be achieved you must first have a Continuous Delivery system set up and delivering your new software packages in whatever form they may be for your application, such as an image. Not a lot of companies choose to do continuous deployment though, and choose instead to wait until a certain amount of features are delivered until they push out the new version.
+
+  
+ **Continuous Integration:**Continuous Integration, the CI in CI/CD; is the process by which the building, testing and merging of new code to a repository is automated. This automation allows developers to frequently push new code without having to worry about potential application breaking code being introduced as it will be caught by the automated tests. The process of building and testing the code is made easy with project management systems such as [Maven](https://maven.apache.org/) or [Gradle](https://gradle.org/), which can automate building and testing.
+#CI
+#CD
