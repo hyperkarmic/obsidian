@@ -1,6 +1,5 @@
-# reading code
+# WPO
 
-![[reading.png]]
+WPO: WPO (Web Performance Optimization) is the practice of making websites load faster.
 
-#code
-#reading-code
+#WPO #coding 

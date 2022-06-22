@@ -16,6 +16,8 @@ _Callback:_ _callback is a function passed as parameter that will be executed w
 _Callback:_ _A callback is a function or code that you pass into another function as an_ **argument** _to execute it_ **later**_._
 
 _Callback: A call back is a function that is called back after something happened._
+<hr>
+Callback based code is usually the first solution to asynchronous programming and it involves passing a function as an argument to another function, the function we passed as an argument will delay execution until the initial function has finished running, then the function we passed as a callback will then run,
 
 #callback
 #js #javascript 

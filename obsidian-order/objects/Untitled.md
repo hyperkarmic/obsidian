@@ -1,8 +1,5 @@
-# Objects
+# method
 
-## An Object is a special kind of array that stores data as a {key-value} pair. A single pair of this data is called a property of that object.
-\
+Methods: Methods are functions within objects, properties of an object
 
-
-#Objects
-#js #javascript 
+#method #function #objects

@@ -7,4 +7,13 @@
 
 At their heart, **Progressive Web Apps** are just web applications. Using progressive enhancement, new capabilities are enabled in modern browsers. Using `service workers` and a `web app manifest`, a web application can be converted into a `PWA`. If the new capabilities aren't available, users still get the core experience.
 
+***
+PWA:Can also run without an active internet connection
+
+-   Receive push notifications even when minimized
+    
+-   It looks like a mobile app when launched from the home screen
+***
+
+
 #PWA

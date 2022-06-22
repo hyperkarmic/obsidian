@@ -4,3 +4,4 @@ Destructuring is the act of unpacking elements in an array or object.Destructuri
 Destructuring:Destructuring takes each variable on the array on the left-hand side and maps it to the element at the _same index_ in the `animals` array.
 
 #js #javascript #destructuring
+#destructure

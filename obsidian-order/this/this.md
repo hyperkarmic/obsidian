@@ -9,5 +9,9 @@
 -   In an event, `this` refers to the **element** that received the event.
 -   Methods like `call()`, and `apply()` can refer `this` to **any object**.
 - #### The main purpose of call() and apply() is to set the context of `this` inside a function irrespective whether that function is being called in the global scope or as object's method.
+***
+This keyword:Is a context object!!!!
+****
+
 
 #this

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "functions/functions-definition.md",
+            "file": "web workers/Untitled.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "expression",
+                "query": "tag:#componernts",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293
+    "width": 288
   },
   "right": {
     "id": "554515bf18dc56f9",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "functions/functions-definition.md",
+                "file": "web workers/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "functions/functions-definition.md"
+                "file": "web workers/Untitled.md"
               }
             }
           },
@@ -145,15 +145,15 @@
   },
   "active": "00542452c1309b01",
   "lastOpenFiles": [
-    "functions/functions-definition.md",
-    "functional/#.md",
-    "front end/Untitled.md",
-    "functions/1st class functions.md",
+    "web workers/Untitled.md",
+    "closures/coding/Untitled.md",
     "front end/component library.md",
-    "coding/fork.md",
-    "coding/expression.md",
-    "coding/dependency injection.md",
-    "execution context/execution phase.md",
-    "execution context/definition.md"
+    "handlebars/view engine'.md",
+    "MVC/view.md",
+    "MVC/MVC - definition.md",
+    "backend/controller.md",
+    "UX-UI/UI.md",
+    "UX-UI/UX-definition.md",
+    "hooks/useReducer.md"
   ]
 }

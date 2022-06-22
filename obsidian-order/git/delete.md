@@ -7,6 +7,9 @@ git branch -d <branch_name>
 
 to delete remote branch
 
+
+
+git branch -D my-new-branch    `or`
 git push <remote_name> --delete <branch_name>
 
 note that remote name is usually "origin"
