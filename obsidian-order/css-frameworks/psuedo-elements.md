@@ -34,7 +34,9 @@ The `::slotted()` **CSS pseudo-element** represents any element that has been
 
 Just as the name suggests, the `::first-line` and `::first-letter` **CSS pseudo-elements** applies styles to the first line and the first letter respectively (of a block-level element).
 
-
+***
+Psuedo Element:A CSS pseudo-element is used to style specified parts of an element.
+***
 
 
 #before

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "web workers/Untitled.md",
+            "file": "UX-UI/UX-definition.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#componernts",
+                "query": "#technical",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288
+    "width": 286
   },
   "right": {
     "id": "554515bf18dc56f9",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web workers/Untitled.md",
+                "file": "UX-UI/UX-definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web workers/Untitled.md"
+                "file": "UX-UI/UX-definition.md"
               }
             }
           },
@@ -145,15 +145,15 @@
   },
   "active": "00542452c1309b01",
   "lastOpenFiles": [
-    "web workers/Untitled.md",
-    "closures/coding/Untitled.md",
-    "front end/component library.md",
-    "handlebars/view engine'.md",
-    "MVC/view.md",
-    "MVC/MVC - definition.md",
-    "backend/controller.md",
-    "UX-UI/UI.md",
     "UX-UI/UX-definition.md",
-    "hooks/useReducer.md"
+    "js/undefined.md",
+    "js/var.md",
+    "js/reduce.md",
+    "SQL/query.md",
+    "web workers/webworker definition.md",
+    "apis/definition.md",
+    "apis/Untitled.md",
+    "backend/Untitled.md",
+    "backend/buisness logic.md"
   ]
 }

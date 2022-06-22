@@ -14,6 +14,8 @@ PWA:Can also run without an active internet connection
     
 -   It looks like a mobile app when launched from the home screen
 ***
-
+ PWA: a PWA is a set of good practices, which will make our application “adapt” to the user’s device. This adjustment includes, for example, push notifications, the ability to work offline, etc.
+ ***
+ 
 
 #PWA

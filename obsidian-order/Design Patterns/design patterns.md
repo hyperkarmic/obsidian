@@ -10,7 +10,20 @@ There are three types of design pattern
 
 
 ![[designpatterns.png]]
+***
+Design Patterns:  Design Patterns describe problems and solutions.
 
+  <hr>
+
+Desgn Patterns:Design Pattern is a simple, scalable, highly reusable solution to a recurring software architecture problem.
+
+  <hr>
+
+Design Pattern:A Design Pattern is a simple, scalable, highly reusable solution to a recurring software architecture problem. Twenty-three of those patterns were compiled in a best seller book by the Gang of Four in the early 90s, which very quickly gained widespread adoption and became a cornerstone of the software development field.
+
+  <hr>
+
+Design Pattern:Design Patterns aren't about classes, objects, or even composition vs inheritance. They are a compendium of complex problems and their simple, scalable, highly reusable solutions — and that's where our focus should be.
 #designpatterns
 #creational
 #structural

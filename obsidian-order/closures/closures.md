@@ -33,5 +33,23 @@ _Closure:Closures is the property of javascript that enables the inner function 
 
 _Closure:_ _A closure is a function that preserves access to vars and arguments (the scope) of the outer function, even after the outer function has finished executing_
 
+Closure: A closure is a function having access to the parent scope, even after the parent function has closed.
+
+  
+
+Closure:A **closure** is the combination of a function bundled together (enclosed) with references to its surrounding state (the **lexical environment**). In other words, a closure gives you access to an outer function’s scope from an inner function. In JavaScript, closures are created every time a function is created, at function creation time.
+
+  
+
+Closure: The closure is a function that accesses its lexical scope even executed outside of its lexical scope.
+
+Closure: The closure is a function that remembers the variables from the place where it is defined, regardless of where it is executed later.
+
+Closure: A closure is a function having access to the parent scope, even after the parent function has closed.
+
+Closure:A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In other words, a closure gives you access to an outer function’s scope from an inner function. In JavaScript, closures are created every time a function is created, at function creation time.
+
+Closure: The closure is a function that accesses its lexical scope even executed outside of its lexical scope.
+Closure:  The closure is a function that remembers the variables from the place where it is defined, regardless of where it is executed later.
 #closures
 #javascript 

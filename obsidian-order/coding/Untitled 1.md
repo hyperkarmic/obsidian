@@ -1,0 +1,4 @@
+# stack
+Stack: In software development, a [stack](https://perfectial.com/blog/technology-stack-dilemma-explained/#:~:text=The%20technology%20stack%20is%20a,below%2C%20thus%20creating%20a%20stack.) refers to the technology used to create and power an application end to end. We explain it this way because each app is composed of multiple layers of technology (the stack). Let’s take an example, a server is hosted in the cloud, which powers a web application to respond to web requests and send files back and forth. Essentially a database with an application that can read and utilise the data for the user. Then you might add UI and UX design for a more user-friendly interface.
+
+#stack #coding 

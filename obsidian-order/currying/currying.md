@@ -11,6 +11,10 @@ Curry: Currying a function is breaking it down into smaller functions which each
 _Curryiing:_ _Currying is basically all about_ _[Higher Order Functions](https://dev.to/kozlovzxc/js-interview-in-2-minutes-higher-order-functions-38kb)__. It is an application of JavaScript's ability to return functions from other functions._
 
 We are replacing a function that takes `n` arguments with a set of `n` functions, which applied one by one gives exactly the same answer as original functions.
+***
+Currying: _In mathematics and computer science,_ **_**currying is the technique of converting a function that takes multiple arguments into a sequence of functions that each take a single argument**_**_._
+***
+
 
 #currying
  #hof

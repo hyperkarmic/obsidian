@@ -5,7 +5,9 @@ Scope: Scope stands for variable access. So, the question is, what variable do I
 
 Scope:In JavaScript, we have three scopes: global scope, function scope, and block scope. Global scope is that first-level, ancestor-to-all scope. There is only one global scope in the entire script. Function scope is a scope created every time a function is created. And block scope is a scope created for conditionals and loops.
 ***
-
+Think of a database schema as a type of data structure. It represents the framework and arrangement of the contents of an organization’s data.
 Scope:The area where a variable is recognised;
+***
+
 #scope
 #js #javascript

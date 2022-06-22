@@ -23,6 +23,11 @@ API: An **API (Application Programming Interface)** is an intermediary softwar
 API: An API (Application Programming Interface) is just a set of commands that let two programs (or websites or systems) talk to each other (send data back and forth).  For example, the Google Maps API lets you get data from Google Maps and use it on your page.
 <hr>
 _Api:__An API is a set of rules, routines, protocols, and tools for building software applications. APIs are the language that systems or programs use to communicate with each other._
+***
+Api: Put simply, an API is a “handshake” between your application and another service.
+***
+
+  Api:  APIs are like fictional cars, which can carry the same passengers (data) by different means- land, air, and water. They know exactly what medium to use when commuting to different places (programs).
 
 
 #API #definition 

@@ -10,4 +10,9 @@ _Class:__"a class in a program is a definition of a “type” of custom data st
 <hr>
 _Class:_ _Classes define objects that share certain properties. Classes can be thought of as types_
 <hr>
+Class:Class in JavaScript serves the same purpose as in any OOP language, i.e to create a blueprint for objects.
+***
+Classes Unlike the classes in Object-Oriented Mode, JavaScript classes are just special type of functions. But instead of using the "function" keyword we use the "class". It was introduced in JavaScript to make the syntax look like other object-oriented languages (java, python, c++).
+<hr>
+
 #classes #class #OOP 

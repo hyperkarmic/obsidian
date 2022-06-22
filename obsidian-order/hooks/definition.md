@@ -39,6 +39,8 @@ They allow you to use state and other React features without writing a class. Th
 <hr>
 What is react hooks ? Hooks allow function components to have access to state and other React features. Because of this, class components are generally no longer needed. Hooks allow us to “hook” into React features such as state and lifecycle methods
 ***
+Hooks:So what about hooks? **Well they return variables and functions** rather than JSX.
+***
 
 #react #hooks
 #definition 

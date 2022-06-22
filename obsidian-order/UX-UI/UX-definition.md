@@ -9,5 +9,8 @@ A user’s interaction with the **UI** with a focus on how satisfying and succ
 UX: After over a decade of experience, I can tell you that UX is essentially one thing, and one thing only: **expectations vs outcomes.**
 <hr>
 **UX:****The whole point of UX is to understand current expectations vs outcomes, and to design a process by which a person can exceed these expectations by out-performing their previous outcomes in terms of emotional, utility, and convenience values.**
+***
+UX: The term User Experience refers to how users interact with a product or service. Whenever you login into a website, or play a game on your phone, your interaction with that application is considered user experience.
+
 
 #ux #UX 
