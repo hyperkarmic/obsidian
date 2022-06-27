@@ -15,5 +15,7 @@ This keyword:Is a context object!!!!
 ## This: What is **this**?The JavaScript `this` keyword refers to the object it belongs to.
 ***
 
+**This:** The `this` keyword refers to an object so that you can access the properties within an object. It can also be used to set the value of a property within an object.
+***
 
 #this

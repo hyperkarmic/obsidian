@@ -42,5 +42,13 @@ What is react hooks ? Hooks allow function components to have access to state an
 Hooks:So what about hooks? **Well they return variables and functions** rather than JSX.
 ***
 
+A Hook has two phases: mount and update.
+
+The mount function is executed when the hook is created for the first time, and the update function is executed every time the hook is updated there after!
+
+![[life-cyce.png]]
+
+***
+
 #react #hooks
 #definition 

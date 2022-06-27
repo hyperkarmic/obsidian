@@ -1,0 +1,5 @@
+# # What are interaction gulfs?
+
+A gulf or barrier arising in the interaction between a user and a system or device when their respective aims do not coincide. Users, based on their own mental model of how the device works, will interact with it in order to achieve a goal and will fail, or will be unable to determine whether or not the goal has been achieved. There are two kinds of interaction gulfs: a gulf in the procedure and a gulf in the evaluation. In the former, the barrier arises when users do not achieve their goal because they do not understand what to do in order to achieve it. In the latter, the barrier arises when users do not understand the response from the system after they have interacted with it, or it is not what they were expecting.
+
+#UI #ui #interaction-gulfs #gulfs #interaction 

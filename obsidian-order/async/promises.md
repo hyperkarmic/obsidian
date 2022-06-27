@@ -29,6 +29,23 @@ A promise is an object that can produce a certain value at some point in the fut
 
 Promise:“_A Promise is an object representing the eventual completion or failure of an asynchronous operation. Essentially, a promise is a returned object to which you attach callbacks, instead of passing callbacks into a function.”_
 ***
+## **Promises**
+
+1. A promise represents a process that guaranteed to complete the execution.
+
+2. Promises have 3 states, these states are **pending, resolved,** and **rejected.**
+
+3. If the promise is chained with **.then(),** that continues the execution after adding the function to the callback chain.
+
+4. Error handling can be done with **.then()** and **.catch()** methods.
+
+5. Promise chaining can be difficult to understand and follow.
+
+6. Debugging can be very tricky with multiple promise chaining.
+
+7. Promises can be used for multiple promises in the promise chaining.
+
+***
 
 #asynchronous
 #promises

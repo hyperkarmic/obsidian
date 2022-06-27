@@ -1,5 +1,8 @@
-# **Low Code:** 
-So-called low code platforms try to minimize the code a developer has to write. Instead of writing it manually, low code platforms offer visual interfaces to build an app.
+# garbage collection
+**Garbage collector:** Garbage collection (GC) is nothing but collecting or gaining memory back that has been allocated to objects but which is not currently in use in any part of our program. **The main mission of the garbage collectors is to clean up the computer memory.**
 
-#low-code
+
+#garbage
+#collection
+#garbage-collection
 #coding 

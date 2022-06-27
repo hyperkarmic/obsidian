@@ -173,6 +173,12 @@
 -   Sound like you. Don't be afraid to be you. Talk about making money and being honest. Use simple talk. to be read. Forget rules. Communicate. Write like you are talking to one person. Think about one person when you are writing
     
 -   Don't use: need, must, can't, just, only, fast, easy, or ASAP
+***
+> “You don’t create a culture” — REWORK
+
+It is a fact. A culture happens based on a series of opportunities and events and how they are repeatedly handled. If you want an open communication, then praise people when they criticize you and encourage that. People are trained, in most cases, to tread lightly with their managers. Not because the manager did anything wrong, but because in the back of their mind, their financial well-being is on the line with their manager.
+***
+
 #fried
 #rework
 #nlp-books 

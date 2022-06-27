@@ -15,4 +15,9 @@ Class:Class in JavaScript serves the same purpose as in any OOP language, i.e to
 Classes Unlike the classes in Object-Oriented Mode, JavaScript classes are just special type of functions. But instead of using the "function" keyword we use the "class". It was introduced in JavaScript to make the syntax look like other object-oriented languages (java, python, c++).
 <hr>
 
+Class is a blueprint, prototype, or template for creating an Object. Class contains declarations of all properties and functions that are owned by the Object
+***
+
+
+Every object is always created in Class. And a class can create an unlimited object
 #classes #class #OOP 

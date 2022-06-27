@@ -18,5 +18,8 @@ Event Loop:Event-loop’s job is to act as a middleman between **queue** and 
 
 ***
 Event Loop:The event loop is a mechanism with JavaScript runtime that is responsible for creating the illusion of synchronicity. JavaScript itself is single-threaded. The event loop handles the shuffling of instructions to make sure that the unpredictable tasks get run when the response is ready.
+***
+The node.js event loop is single threaded and hence it can perform one task at a time. If a time consuming task is requested from the event loop then it will offload this task to the kernel and the worker threads and continue to work on other requests. There are certain phases of the event loop which it traverses in a fixed order and hence it is able to perform asynchronous and non-blocking tasks.
+
 
 #event-loop #js #javascript 

@@ -51,5 +51,23 @@ Closure:A closure is the combination of a function bundled together (enclosed)
 
 Closure: The closure is a function that accesses its lexical scope even executed outside of its lexical scope.
 Closure:  The closure is a function that remembers the variables from the place where it is defined, regardless of where it is executed later.
+***
+![[closure.png]]
+***
+# **Some advantages of closure:**
+
+-   With a function closure, you can store data in a separate scope, and share it only where necessary.
+-   Closure helps to hide the data which is called data encapsulation.
+-   It is used in function currying in JavaScript.
+-   It is also used to prevent code repetition.
+***
+
+# **Some disadvantages of closure:**
+
+-   Need more memory to compile closure because every time closure is invoked it creates a new instance for every time.
+-   Sometimes it will not be garbage collected, that’s why it consumes a lot of memory.
+-   If we can’t handle closure properly it makes memory leak and sometimes it makes our browser hang.
+***
+
 #closures
 #javascript 

@@ -18,5 +18,7 @@ Routing:Routing is required to navigate application users to different pages bas
 ***
 Routing: Router: component that helps dispatch a request to the function that can handle it
 ***
+A **route** for me will handle all the route related things such as query params , request.body and responses.
+***
 
 #express #router #express-router

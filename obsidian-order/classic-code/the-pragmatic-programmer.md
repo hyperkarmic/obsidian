@@ -338,6 +338,47 @@ Read this book, and you’ll learn how to:
 -   Tip 69: Greatly exceed your user's expectations
     
 -   Tip 70: Sign your work
-- 
+
+
+***
+## Three takeaways
+1)Systems as state machines...
+This is useful when designing applications that hold multiple states. One can visualise a state machine via a _state diagram_. Much information can be condensed in the chart, like the relationships between states.
+
+Like any design document, state diagrams help communicate design requirements and also help to identify potential loopholes or missing _transitions_ between states.
+
+## **What does the book say?**
+
+> State machines are underused by developers, and we’d like to encourage you to look for opportunities to apply them.
+> 
+> The Pragmatic Programmer, Topic 29
 #pragmatic
 #book #Thomas #Hunt
+
+***
+# 2. Code as a series of data transformations
+
+But thinking of code as a program that transforms data into data, which gets transformed again into data, which gets transformed again into data, which gets transformed again into data, which gets transformed again into data (you get my drift)…? That expanded my world.
+
+## **How is this useful?**
+
+Dealing with more complex logic becomes more manageable. How? Divide and conquer.
+
+We suddenly have the flexibility of breaking down the complex logic in multiple steps. We don’t need to constraint ourselves to write everything in a single step.
+***
+# 3. Functions have a restricted domain
+I used to see functions as a mere input-output box.
+
+
+``` 
+**def** f(x: **float**) -> **float**:  
+    **return** math.log(x) ```
+
+
+
+
+
+
+```
+
+***

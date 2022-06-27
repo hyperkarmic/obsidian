@@ -8,6 +8,14 @@ _Prototype:_ When we create an object, JavaScript automatically adds an invisibl
 Prototype:The prototype object is a special type of enumerable object to which additional properties can be attached to it which will be shared across all the instances of its the constructor function.
 ***
 
+Property is like an object, where we can add a property, either value or method. When we add a property to the Prototype, automatically, all object instances that inherit from the prototype will have that property
+***
+Now we know that prototype always has a parent, meaning it is a child, the highest parent is the Object prototype.
+
+The question is what if we want to do inheritance to another Prototype? This can also be done, but it’s a bit tricky because it’s actually for modern
+
+JavaScript, it’s no longer recommended to practice OOP using Prototype, because in ES6 the class keyword has been introduced which will be discussed in a separate chapter.
+***
 
 #prototype
 #OOP #js #javascript 

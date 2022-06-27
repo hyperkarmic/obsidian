@@ -1,0 +1,4 @@
+# flowcharts
+![[flowcharts.jpg]]
+#flowcharts
+

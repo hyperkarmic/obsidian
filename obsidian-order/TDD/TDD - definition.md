@@ -9,3 +9,11 @@ The TDD cycle consists of three steps:
     
 3.  **Refactor**: improve the code, and make it more abstract, readable, and optimized.
 <hr>
+TDD is a process in which software requirements are converted into test cases BEFORE the software is fully developed.
+***
+Tests are a good documentation of what a piece of code is supposed to do.
+***
+Test-Driven Development (TDD) is the practice of designing applications and systems that are resilient to defects and new problems.
+***
+
+#TDD #tdd #tests #defintion

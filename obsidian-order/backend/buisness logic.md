@@ -7,7 +7,14 @@ Business logic layer. This layer contains a set of components that are responsib
 ***
 Business logic is the programming that manages communication between an end user interface and a database. The main components of business logic are [business rules](https://whatis.techtarget.com/definition/business-rule) and [workflows](https://searchcio.techtarget.com/definition/workflow). A business rule describes a specific procedure; a workflow consists of the tasks, procedural steps, required input and output information, and tools needed for each step of that procedure. Business logic describes the sequence of operations associated with data in a database to carry out the business rule.
 ***
+**Business logic:** The stuff that makes decisions and stores state, eg: everything in <Browsers /> body above return.
+***
+as opposed to view logic in REACT
+***
+**View logic:** Everything that displays the state on a screen and reads the user’s input, eg: everything in return (…)
+***
 
 #buisness-logic
 #databases 
 #coding #backend 
+#logic #view-logic

@@ -11,5 +11,9 @@ Models: Models allow us to communicate with database collections
 Models vs Schemas: Schema is the thing that defines the structure of our documents. The model is the thing that surrounds that and provides us with an interface to communicate with a database collection for that document type.
 ***
 Models/Schemas: 2 steps: First we create our schema, which defines the structure, then we create a model based on this schema, and we define the name of this model, which should be a singular of the collection name. And we store this in a const at the bottom of the file.
+***
+The model code will **contain some kind of database, or just raw data**. If the state of this data changes, then the model will notify the view, in order to display any changes, or sometimes, the controller as well. This would be the equivalent of the engine and wheels of our car.
+***
+
 
 #model #mvc #schema  
