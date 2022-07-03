@@ -122,5 +122,17 @@ Key points in UX designing:-
 -   Usability Testing
 -   Visual Design
 ***
+![[UX-UI/img/ui-ux.png]]
+
+***
+![[UX-UI/img/user experience design.png]]
+***
+![[user-centered-design.jpeg]]
+***
+![[UX-UI/img/ux vs ui.png]]
+***
+![[UX-UI/img/ux-design.png]]
+***
+![[UX-UI/img/ux-vs-ui.png]]
 
 #ux #UX 

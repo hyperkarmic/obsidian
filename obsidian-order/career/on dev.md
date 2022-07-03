@@ -1,0 +1,40 @@
+# On being dev
+![[being-dev.png]]
+***
+![[career/img/torso.png]]
+![[coding essentials.png]]
+![[passion-skill-culture.png]]
+***
+![[coding-golden-rules.png]]
+***
+![[coding-learning-cycle.png]]
+***
+![[coding-notes-structure.png]]
+***
+![[career/img/creative-hosk.png]]
+***
+![[dev.png]]
+***
+![[dev-loop.png]]
+***
+![[full-stack.png]]
+![[essay.png]]
+***
+![[dev-skills.png]]
+***
+![[dyspraxia.png]]
+***
+![[fundamentals.png]]
+***
+![[hardwork.png]]
+***
+![[on-dev.png]]
+***
+![[plan_reality.png]]
+***
+![[career/img/tips.png]]
+***
+![[career/img/torso.png]]
+***
+![[career/img/warfare.png]]
+#dev #On-devc

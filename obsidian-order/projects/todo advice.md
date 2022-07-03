@@ -7,6 +7,8 @@ The reality is, though, you don’t have to try, and find a bigger and better co
 [To-do Apps Are Still A Fantastic Way To Learn Programming! | by Attila Vágó | Jun, 2022 | Level Up Coding](https://levelup.gitconnected.com/to-do-apps-are-still-a-fantastic-way-to-learn-programming-96a8494e9e1e)
 the above article is the god tier on the subject!!!!
 ***
+![[todo1.png]]
+***
 
 #todo
 #project

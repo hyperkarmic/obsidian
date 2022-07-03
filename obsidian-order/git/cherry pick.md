@@ -7,6 +7,7 @@
 
 You can just **Cherry Pick** the commits you require
 <hr>
+```
 
 git cherry-pick <commit-id>
 
@@ -15,6 +16,10 @@ git cherry-pick -x <commit hash>
 
 
 git cherry-pick  <commit hash>
+```
+
+***
+
 
 
 #cherry

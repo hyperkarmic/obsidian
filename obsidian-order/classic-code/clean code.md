@@ -169,6 +169,40 @@ This book is a must for any developer, software engineer, project manager, team 
 5.  Needless Repetition.
 6.  Opacity. The code is hard to understand.
 
+***
+1. Once the code works — that’s when you have to clean it. No one writes clean code first.
+
+2. If the code works perfectly, but is not understandable, then as soon as the requirements change — it is useless.
+
+3. Make the code express itself, preferably instead of using comments.
+
+4. Always check in the code a little better than you checked it out.
+
+5. Code coverage doesn’t mean anything outside of the context of the team. Tests will become meaningless if it’s treated as a ‘management metric’. 100 percent is asymptotic.
+
+6. Anybody who pretends they know how long something is going to take is lying. Give an estimate of three numbers.
+
+7. Have as little inheritance as possible.
+
+8. The mess builds slowly, but eventually it will dominate.
+
+9. Clean code reads like well-written prose.
+
+10. Defer critical decisions as long as possible, until you’ve got enough information.
+
+11. Frameworks encourage coupling. They can make the first months of a project easy, but the next years of the project difficult.
+
+12. Agile is just a way to produce data, so that you can manage.
+
+13. Get things out in front of customers very early, so that they can tell you “oh, that’s not what I wanted”.
+
+14. Project is over when there’s nothing else worth doing.
+
+15. The only way to go fast is to go well.
+***
+_Writing clean code is what you must do in order to call yourself a professional. There is no reasonable excuse for doing anything less than your best. — Robert C. Martin_
+***
+![[bob-story.png]]
 #clean-code
 #Martin
 #book 

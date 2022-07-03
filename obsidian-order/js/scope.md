@@ -8,6 +8,6 @@ Scope:In JavaScript, we have three scopes: global scope, function scope, and blo
 Think of a database schema as a type of data structure. It represents the framework and arrangement of the contents of an organization’s data.
 Scope:The area where a variable is recognised;
 ***
-
+![[scope.png]]
 #scope
 #js #javascript

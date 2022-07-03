@@ -52,6 +52,9 @@ you can install the node.js module for the required functionality, then load it 
 The big difference about a middleware and a route handler **is the next() function**
 
 `next()` function is the third parameter to a middleware and it basically tells the backend to “go on with the next middleware” or in other words “give it the green light to continue with the next routine” so our page doesn’t just freeze and never finish loading so if we forget to put it, the program won’t continue because it’s stuck in the middleware
+***
+![[middleware.png]]
+***
 
 #middleware
 #express

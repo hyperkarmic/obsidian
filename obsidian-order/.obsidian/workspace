@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7814b769619a1684",
+        "id": "eaa97e033c2097ea",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dev-ops/ci-cd.md",
+            "file": "docker kubenetes/container.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#CI",
+                "query": "todo",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -50,12 +50,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 278
+    "width": 312
   },
   "right": {
     "id": "554515bf18dc56f9",
@@ -85,13 +84,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev-ops/ci-cd.md",
+                "file": "docker kubenetes/container.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -102,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev-ops/ci-cd.md"
+                "file": "docker kubenetes/container.md"
               }
             }
           },
@@ -142,19 +141,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343
+    "width": 267
   },
-  "active": "7814b769619a1684",
+  "active": "eaa97e033c2097ea",
   "lastOpenFiles": [
-    "dev-ops/ci-cd.md",
-    "dev-ops/definition.md",
-    "functional/partial application.md",
-    "functional/monad.md",
-    "functions/lambda.md",
-    "node/repl.md",
-    "node/npm.md",
-    "design/linx.md",
-    "MVC/MVC - definition.md",
-    "backend/controller.md"
+    "docker kubenetes/container.md",
+    "Untitled.md",
+    "career/on dev.md",
+    "UX-UI/UX-definition.md",
+    "dev/stack.md",
+    "projects/todo advice.md",
+    "TDD/TDD - definition.md",
+    "this/this.md",
+    "handlebars/templates.md",
+    "coding/technical debt.md"
   ]
 }

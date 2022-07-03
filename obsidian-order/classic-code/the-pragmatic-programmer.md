@@ -382,3 +382,7 @@ I used to see functions as a mere input-output box.
 ```
 
 ***
+![[prag-prog-broken-windows.png]]
+***
+![[pragmatic-programmer.png]]
+***

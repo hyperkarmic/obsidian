@@ -117,6 +117,9 @@ Good information architecture will ensure that your users are self-sufficient (f
 
 It is a science of organizing and structuring the content of the websites, web and mobile application and social media software so that users would easily adjust to the functionality of the product and could find everything they need, without big efforts.
 ***
+![[info-architecture.png]]
+
+
 
 #information #architecture #information-architecture #UI
 #hierachy-of-content

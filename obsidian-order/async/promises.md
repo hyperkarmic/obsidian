@@ -46,7 +46,17 @@ Promise:“_A Promise is an object representing the eventual completion or failu
 7. Promises can be used for multiple promises in the promise chaining.
 
 ***
+The promise is a JS special object. It produces value after an asynchronous operation is completed successfully or not. If it’s successful then perform a task which is defined resolve part. other hands, operation not successful code will be executed from the reject part.
 
+**Simply Promises is a JavaScript Object that links producing code and consuming code.**
+***
+![[promise.png]]
+***
+![[promise2.jpg]]
+***
+![[promise-mdn.jpg]]
+***
+![[promises.png]]
 #asynchronous
 #promises
 #definition

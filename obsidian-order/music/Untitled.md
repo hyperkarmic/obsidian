@@ -69,3 +69,10 @@
 
 [Moctezuma by Porter (Album, Indie Pop): Reviews, Ratings, Credits, Song list - Rate Your Music](https://rateyourmusic.com/release/album/porter/moctezuma/)
 
+[Clube da Esquina by Milton Nascimento & Lô Borges (Album, MPB): Reviews, Ratings, Credits, Song list - Rate Your Music](https://rateyourmusic.com/release/album/milton-nascimento-lo-borges/clube-da-esquina/)
+[Un soplo en el corazón by Family (Album, Sonido Donosti): Reviews, Ratings, Credits, Song list - Rate Your Music](https://rateyourmusic.com/release/album/family/un-soplo-en-el-corazon/)
+
+[Panico by Panico (EP, Indie Rock): Reviews, Ratings, Credits, Song list - Rate Your Music](https://rateyourmusic.com/release/ep/panico/panico/)
+
+
+#music

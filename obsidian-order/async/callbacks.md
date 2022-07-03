@@ -10,4 +10,8 @@ Callback: A callback function executes when an asynchronous operation completes
 <hr>  
 Callback Function:A callback function is a function passed as an argument to another function, which is then invoked inside the outer function. Callback functions are often executed once an event has occurred or a task has completed.
 <hr>
+![[callback.png]]
+
+
+
 #callback #asynchronous  

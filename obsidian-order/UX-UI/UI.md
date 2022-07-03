@@ -60,6 +60,6 @@ It deals with the screen layout, transitions, interface animations, and even sin
 -   Interactivity and Animation
 -   UI Prototyping
 ***
-
+![[7 ui design basics.png]]
 #UI #ui
 #definition 

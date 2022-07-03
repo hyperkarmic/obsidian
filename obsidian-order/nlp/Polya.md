@@ -1,0 +1,7 @@
+# Polya
+
+![[polya.png]]
+
+
+#Polya
+

@@ -25,6 +25,10 @@ _Technical debt:_ The definitions and significance of [technical debt](https://
 <hr>
 Technical Debt:My simple definition of technical debt is when technologies running in production require fixing, refactoring, modernizing, upgrading, reengineering, or replacing before or as part of implementing the strategic business requirements.
 ***
+> A concept in software development that reflects the implied cost of additional rework caused by choosing an easy solution now instead of using a better approach that would take longer
 
+Ref: [www.techopedia.com/definition/27913/technical-debt](http://www.techopedia.com/definition/27913/technical-debt)
+***
+![[coding/img/tech-debt.png]]
 #technical-debt
 #coding #Fowler 

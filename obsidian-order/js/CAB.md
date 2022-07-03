@@ -12,6 +12,21 @@ The `bind` function creates a copy of a function with a new value to the `thi
 The `bind` function then returns a new function that consists of a new context to the `this` variable present inside the calling function:
 <hr>
 ###### Call, apply, and bind are the functions that help you change the context of the `this` keyword present inside the invoking function.
+***
 
+# The Explicit Binding
+
+With the usage of `call`, `apply` or `bind` we tell the JavaScript engine to set `this` to point to a certain value.
+
+`Call` and `apply` can be used to invoke a function with a specific value for `this`.
+***
+Both `call` and `apply` do the same. The first argument to both should be what `this` points to.
+
+A difference comes up if additional arguments need to be passed to the invoked function.
+
+With `call`, the additional arguments are passed as a normal comma-separated list of arguments, and with `apply` as an array of arguments.
+
+With `bind` we create a new function and bind it to `this` permanently.
+***
 
 #js #javascript #call #apply #bind

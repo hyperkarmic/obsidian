@@ -68,6 +68,23 @@ Closure:  The closure is a function that remembers the variables from the place 
 -   Sometimes it will not be garbage collected, that’s why it consumes a lot of memory.
 -   If we can’t handle closure properly it makes memory leak and sometimes it makes our browser hang.
 ***
-
+According to [MDN](https://developer.mozilla.org/en-US/),  
+_“A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In other words, a closure gives you access to an outer function’s scope from an inner function. In JavaScript, closures are created every time a function is created, at function creation time”_
 #closures
 #javascript 
+***
+# **Use cases of Closures**
+
+1.  Data privacy
+2.  Event handlers and callback functions
+3.  Functional programming patterns
+4.  Module design pattern
+5.  Partial applications
+6.  Currying
+***
+![[closure2.png]]
+***
+![[closure3.png]]
+***
+![[closure4.jpg]]
+***

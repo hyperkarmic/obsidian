@@ -14,6 +14,7 @@ Models/Schemas: 2 steps: First we create our schema, which defines the structure
 ***
 The model code will **contain some kind of database, or just raw data**. If the state of this data changes, then the model will notify the view, in order to display any changes, or sometimes, the controller as well. This would be the equivalent of the engine and wheels of our car.
 ***
-
+![[model.png]]
+***
 
 #model #mvc #schema  

@@ -6,5 +6,13 @@
 <hr>
 After several **commits** if you require to check out the commits you have made, check out the logs using: git log
 <hr>
+![[git.png]]
+***
+![[git2.png]]
+***
+![[git3.png]]
+***
+
+
 
 #git #definition 

@@ -7,6 +7,10 @@
 ***
 Recursion: JavaScript’s routine for handling recursion is known as tail recursion, a stack-based implementation of recursion. This means that, for every recursive call, there is a new frame in the stack.
 ***
+![[recursion.jpg]]
+![[recursion.png]]
+
+***
 
 #algorithms 
 #recursion

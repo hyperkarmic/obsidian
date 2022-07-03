@@ -33,4 +33,10 @@ class Person {
 
 
 
+***
 
+# **What are classes in JavaScript?**
+
+JS classes are templates for creating objects. They reduce duplicate code and debugging time. Developers use classes to produce similar objects. Like functions, classes can be used both in declaration and expression.
+***
+#class #keyword

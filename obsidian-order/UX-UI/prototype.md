@@ -23,6 +23,18 @@ Testing your prototypes on real users helps to highlight any design flaws before
 
 The most basic definition of a prototype is, “ A simulation or sample version of a final product, which is used for testing before launch”. The goal is to test products before sinking lots of time and money into the final product as it provides the flow and the blueprint beforehand.
 ***
+# Prototype
+
+A Prototype can be thought of as the step between a PoC and MVP. Once the concept has been proven in a limited scope, you can take a little more time proving whether or not the concept works in a more integrated implementation. Unless the prototype was specifically user experience related, this usually focuses on functionality rather than design or even usability.
+
+The Prototype is typically not a refactor of the PoC but a rewrite because of the shortcuts taken previously and applying what was learned.
+***
+![[prototype.jpg]]
+***
+![[prototypes.png]]
+***
+![[proto_vs_class.png]]
+***
 
 #prototype #prototyping
 #UX #design 

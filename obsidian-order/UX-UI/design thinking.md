@@ -131,4 +131,6 @@ Design Thinking is an iterative process in which we seek to understand the user,
 • Improves customer retention and loyalty  
 • Cost savings and a great ROI  
 • Fosters innovation
+***
+![[design-thinking-process.png]]
 #design #design-thinking #ux #UX 

@@ -34,6 +34,8 @@
 [Regulex：JavaScript Regular Expression Visualizer](https://jex.im/regulex/#!flags=&re=(((%3F%3D.*%5Cd)
 [Ionic: Enterprise App Development & Delivery Platform](https://ionic.io/)
 [Free to Use Clip Art Images & Vector Illustrations | ManyPixels](https://www.manypixels.co/gallery)
+[SchemeColor.com: Download, create & share beautiful color combinations](https://www.schemecolor.com/)
+
 
 [uiGradients - Beautiful colored gradients](https://uigradients.com/)
 [i Hate Regex - The Regex Cheat Sheet](https://ihateregex.io/)
@@ -48,6 +50,14 @@
 [Theatre.js - JavaScript Motion Design Library](https://www.theatrejs.com/)
 [Glassmorphism CSS Generator - Glass UI](https://ui.glass/generator/)
 [Whirl: CSS loading animations with minimal effort!](https://whirl.netlify.app/)
+[unDraw - Open source illustrations for any idea](https://undraw.co/)
+[Fluid-responsive font-size calculator](https://websemantics.uk/tools/responsive-font-calculator/)
+[Meta Tags — Preview, Edit and Generate](https://metatags.io/)
+
+[Site Unreachable](https://codemyui.com/)
+
+
+[shaper — interface styles shaper](https://hihayk.github.io/shaper/)
 
 [Behance](https://www.behance.net/search/projects?search=portfolio%20website&tracking_source=typeahead_nav_direct)
 

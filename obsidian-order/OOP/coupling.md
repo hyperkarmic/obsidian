@@ -14,6 +14,8 @@ If we don’t follow this best practice, **we risk trending toward _high coupl
 ***
 **_Cohesion_** _— refers to how tightly everything is tied to one another._**_Coupling_** _— is the process through which everything is linked together._
 ***
+_Two systems are loosely coupled if changes to the design, implementation, or behavior in one won’t cause changes in another._
+***
 
   
 #coupling

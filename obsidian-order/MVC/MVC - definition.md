@@ -13,6 +13,13 @@ Modern applications can easily become very complex, and doing changes or general
 
 With the MVC pattern of organization an application can be organized in smaller, separate components, allowing it to be scalable, maintainable, and easy to expand.
 ***
+![[mvc.png]]
+***
+![[mvc2.png]]
+***
+![[mvc3.png]]
+***
+![[mvc4.png]]
 
 
 #mvc #model #view #controller 

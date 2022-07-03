@@ -49,6 +49,49 @@ The mount function is executed when the hook is created for the first time, and 
 ![[life-cyce.png]]
 
 ***
+![[life-cycle2.png]]
+***
+
+Before hooks were invented, class components dominated the landscape for React developers. React’s lifecycle methods were only accessible to class components thus making classes the only option to perform side effects.
+
+Thanks to the React team, now we have [**hooks**](https://reactjs.org/docs/hooks-intro.html)**.**
+
+> **React hooks** give functions similar features to what is provided to classes**.**
+
+
+***
+**Some benefits of hooks are:**
+
+-   Isolating stateful logic, making it easier to test
+-   Sharing stateful logic without render props or higher-order components
+-   Separating your app’s concerns based on logic
+-   Avoiding ES6 classes
+***
+## Overview of React hooks
+
+In React, hooks are functions that allow you to _hook into_ React state and lifecycle features from function components. This allows you to use React **without classes**.
+
+When you take an initial look at the React Hooks documentation, you’ll see that there are several Hooks that we can use for our applications. You can even create your own. Some of the popular ones include:
+
+-   `useState`: returns a stateful value
+-   `useEffect`: perform side effects from function components
+-   `useContext`: accepts a context objects and returns current context value
+-   `useCallback`: pass an inline callback and an array of dependencies
+
+>
+
+***
+**Some benefits of hooks are:**
+
+-   Isolating stateful logic, making it easier to test
+-   Sharing stateful logic without render props or higher-order components
+-   Separating your app’s concerns based on logic
+-   Avoiding ES6 classes
+***
+![[hooks.png]]
+***
+![[hooks2.png]]
+***
 
 #react #hooks
 #definition 

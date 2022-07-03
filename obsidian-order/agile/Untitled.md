@@ -1,9 +1,10 @@
-# MVP
+# software development model
 
-MVP:MVP should be solving the most important use-cases and solve them well.
+![[software-dev-cycle.png]]
 
-Most of the major problems (~80%) should be addressed in MVP (~20%).
+***
+![[software-dev-cycle2.png]]
+***
+![[software-dev-cycle3.png]]
 
-As the Pareto principle says the majority of results come from the minority of causes, MVP is the cause that covers 80% of the use-cases.
-
-#MVP #agile 
+#software #model #software-development 

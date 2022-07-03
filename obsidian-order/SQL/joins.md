@@ -1,0 +1,9 @@
+# joins
+
+![[joins.png]]
+
+
+
+
+
+#joins

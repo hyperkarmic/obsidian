@@ -37,5 +37,13 @@ Async/await allows your asynchronous JavaScript code to execute without blocking
 
 The async keyword specifies the function as an asynchronous operation. This makes sure that the function will **always** return a promise.
 ***
+Async/Await is just a syntactic sugar of Promise still it is really helpful to use async/await because of below reasons:
+
+-   More readable code
+-   Easy to understand as complex chaining in Promises were difficult to understand
+-   Save more memory, as await doesn’t make the execution of the code stop till the Promise is executed, the code is executed and doesn’t wait for await to return a result. JavaScript is able to perform other operations in parallel.
+-   Error handling and conditional handling is better.
+
+***
 
 #async #await

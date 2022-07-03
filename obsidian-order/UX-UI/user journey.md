@@ -5,5 +5,10 @@ The design of your product revolves around functionality and usability, rather t
 
 Don’t forget: **Useful, Usable, Delightful**. If you don’t solve a user’s problem, she won’t care for your colors or pictures.
 ***
-
+![[cus-journey1.png]]
+![[cus-jouney2.png]]
+***
+![[cus-journey3.png]]
+***
+![[cus-journey4.png]]
 #user #user-journey

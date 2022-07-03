@@ -1,0 +1,5 @@
+# linux
+![[linux.png]]
+
+
+#linux

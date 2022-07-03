@@ -60,7 +60,12 @@ The art of being a fast React developer is an art of separating business logic f
 ***
 # Split your code into many small reusable files
 ***
+![[frameworks.png]]
+***
 
+![[react component.png]]
+
+***
 
 #components 
 #REACT #react 

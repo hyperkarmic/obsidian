@@ -28,5 +28,11 @@ Let’s first discuss how we can use props in our child component. There are mai
 ***
 Props is any data passed into a React Component [props=”value”]. It helps to make components dynamic.
 ***
+Adding props to a component is pretty simple
+``````
+<BlogPostComponent  
+title='First post'  
+subtitle='Created by me'
+/>
 
-#react #props
+***

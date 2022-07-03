@@ -3,6 +3,7 @@ In today’s world, it is rare that people aren’t multi-tasking, on their phon
 ***
 The person you are interviewing may cross your path in years to come and it is important to learn about them as much as they are learning about you.
 ***
-
+![[interview.png]]
+***
 
 #interview #interview-thoughts

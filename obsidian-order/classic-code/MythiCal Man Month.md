@@ -15,6 +15,9 @@
 -   There is nothing in this world constant but inconstancy
     
 -   It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something
+***
+_“First, one must perform perfectly. The computer resembles the magic of legend in this respect, too. If one character, one pause, of the incantation is not strictly in proper form, the magic doesn’t work.”_
+***
 
 #mythical-man-month
 #brooks 

@@ -32,6 +32,19 @@ Api: Put simply, an API is a “handshake” between your application and anothe
   APIs are just pieces of code that help two server applications (backend) or one client application(frontend) and one server application to communicate. This communication is essential for any modern application to work. Therefore, APIs are considered the backbone of the latest software and/or services.
 
 If I have to say in simple words what APIs do, I will say, APIs are just services that return some kind of data on demand. This data can be anything such as an image file, sound file, raw text, etc.
+***
+# What is an API?
 
+APIs are just pieces of code that help two server applications(backend) or one client application(frontend) and one server application to communicate. This communication is essential for any modern application to work. Therefore, APIs are considered the backbone of the latest software and/or services.
+
+If I have to say in simple words what APIs do. I will say, APIs are just services that return some kind of data on demand. This data can be anything such as an image file, sound file, raw text, etc.
+***
+
+API stands for an application programming interface. It is the back-end side of your web application and it’s usually run on your server. The API is always used to serve your front-end and can be also used as an interface to be integrated by a third party. An API is composed of a collection of services to get or to push data to your back-end server.
+***
+![[api.png]]
+***
+![[api2.png]]
+***
 
 #API #definition 

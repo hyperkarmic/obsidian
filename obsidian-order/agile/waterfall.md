@@ -1,7 +1,7 @@
 #  Waterfall
 Waterfall was invented by manufacturing companies as a sequential step-by-step process of software development, similar to the hardware-production model. Each change would be separately estimated, and therefore the budgets would dramatically increase.
 
-
+![[agile vs waterfall.png]]
 
 
 ## steps 

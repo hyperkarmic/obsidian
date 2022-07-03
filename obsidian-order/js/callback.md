@@ -18,6 +18,12 @@ _Callback:_ _A callback is a function or code that you pass into another functio
 _Callback: A call back is a function that is called back after something happened._
 <hr>
 Callback based code is usually the first solution to asynchronous programming and it involves passing a function as an argument to another function, the function we passed as an argument will delay execution until the initial function has finished running, then the function we passed as a callback will then run,
+***
+The Callback function is nothing but a function which is passed in another function as a parameter.
+***
+The callbacks are introduced to perform asynchronous activities in JavaScript. A function always waits for the callback function to complete execution before executing the code after the callback. In the above example function dog had to wait for the completion of the function animal before committing the third console. Callbacks make sure a function will not run before completing a specific task.
+***
+
 
 #callback
 #js #javascript 
