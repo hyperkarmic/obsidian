@@ -23,6 +23,8 @@ In simple terms **Clean Code** refers to a codebase that is easy to read and u
 ![[maintainable.png]]
 ***
 
+Clean code is the art of making human readable code, easy to understand. Ideally, it should involve a better testability, a better decomposition, a better quality.
+***
 
 #clean-code 
 #definition 

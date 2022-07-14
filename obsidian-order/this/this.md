@@ -22,4 +22,18 @@ This keyword:Is a context object!!!!
 ![[TDD/this2.png]]
 ***
 ![[TDD/this3.png]]
+***
+**This has five scenarios:**
+
+(1) The binding event points to the event itself
+
+(2) Ordinary function, pointing to the method body
+
+(3) The new function points to the current class
+
+(4) Arrow function, pointing to the parent context
+
+(5) call/apply/bind
+***
+
 #this

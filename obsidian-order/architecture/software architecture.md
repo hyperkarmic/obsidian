@@ -53,6 +53,27 @@ A good architectural diagram will:
 -   Maintain a consistent style
 -   Make it easier to identify potential flaws or areas for improvement in the software architecture
 ***
+“Software architecture is the discipline that helps us design policies so that decisions about the details can be delayed and deferred for as long as possible”
+***
+[
+
+_Software architecture_ is the body of instructions, written in a specific coding language, which controls the structure and interactions of the system modules. The properties of capacity, throughput, consistency and module compatibility are fixed at the architectural level.  
+The processing architecture is code that governs how the processing modules work together to do the system functions. The communication architecture is code that governs the interactions of the processing modules with the data and with other systems. The data architecture is code that controls how the data files are structured, filled with data and accessed. Once the architecture is established, functions may be assigned to processing modules and the system may be built. Processing modules can vary greatly in size, scope, depending on the function each performs, and the same module may differ across installations. In every case, however, the processing architecture, communication architecture and data architecture constitute the software architecture that is the system’s unique and unchanging “fingerprint.” Therefore, when systems share a common architecture, they are the same, regardless of superficial differences in various installations.  
+When several sites use software systems with a common architecture, they are considered to be using the same software system even though they may do somewhat different things. No two iterations of a software system are exactly the same, despite their shared architecture. When a system is installed at two or more sites, localization is always required. Tables are populated with data to configure the software to meet the needs of specific customer sites. The customer may have special needs that require more than minor table adjustments. Customization of some modules may be required. New modules may be added.  
+Alternatively, two systems with differing architectures can perform the same function in alternative ways. These would be different systems. Function and output do not define a system. Only its architecture can describe and identify a system.
+[Larry Bernstein](https://softwarequotes.com/author/larry-bernstein)
+***
+Software architecture describes the fundamental concepts and properties of a system within the context of its environment, relationships, principles of design, and more. Software architecture encompasses the organization of a software system, structural elements, behavioral elements, and the composition of those elements into larger subsystems. Software systems can often contain multiple architectures.
+***
+A good architectural diagram will:
+
+-   Diagram core components
+-   Highlight critical system interactions and relationships
+-   Be easy to access and share
+-   Maintain a consistent style
+-   Make it easier to identify potential flaws or areas for improvement in the software architecture
+***
+
 
 #architecture #software-architecture
 #definiton

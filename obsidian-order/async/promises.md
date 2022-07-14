@@ -57,6 +57,24 @@ The promise is a JS special object. It produces value after an asynchronous oper
 ![[promise-mdn.jpg]]
 ***
 ![[promises.png]]
+***
+
+A promise is an object — a **placeholder** for the eventual result.
+***
+![[promises-july.png]]
+***
+![[tofu.jpeg]]
+***
+![[promise-diagram.jpeg]]
+***
+![[promise-code1.png]]
+
+
+![[promise-code2.png]]
+***
+![[promise-july3.jpeg]]
+
+
 #asynchronous
 #promises
 #definition

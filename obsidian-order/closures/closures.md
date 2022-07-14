@@ -88,3 +88,13 @@ _“A closure is the combination of a function bundled together (enclosed) with 
 ***
 ![[closure4.jpg]]
 ***
+To simplify, inner functions always have access to the outer functions via _closure_. One important thing to note here is the _lexical environment._ Because of the _l_exical environment, the inner function has access to all the variables of its parent function.
+***
+## Use cases of closure
+
+-   Currying
+-   Encapsulation
+-   Functions like memoize and once
+-   setTimeouts
+-   Module design pattern
+***

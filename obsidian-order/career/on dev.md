@@ -37,4 +37,10 @@
 ![[career/img/torso.png]]
 ***
 ![[career/img/warfare.png]]
+***
+While this may not be readily obvious to the inexperienced developer , being a good programmer is not the same as being a good developer. In order to have greater clarity on this point , it would be prudent to understand the differences between a developer and a programmer. A programmer is simply a person who is capable of writing computer programs to solve a problem , while a developer is a programmer that implements or develops a system as per given requirements.
+***
+## Knowledge is not the same as skill.
+***
+
 #dev #On-devc

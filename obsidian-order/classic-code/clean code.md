@@ -203,6 +203,10 @@ This book is a must for any developer, software engineer, project manager, team 
 _Writing clean code is what you must do in order to call yourself a professional. There is no reasonable excuse for doing anything less than your best. — Robert C. Martin_
 ***
 ![[bob-story.png]]
+***
+[GitHub - ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+***
+
 #clean-code
 #Martin
 #book 

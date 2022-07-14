@@ -14,6 +14,11 @@ You want to stand out in a sea of bootcamp grads? Explain how you deployed to AW
 Devops is primarily associated with the collaboration between developers and operations to improve the delivery and reliability of applications in production. The most common best practices aim to replace manual, error-prone procedures managed at the boundaries between dev and ops teams with more robust automations. These include [automating the delivery pipeline with CI/CD](https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html) (continuous integration and continuous delivery), standardizing configurations with containers, and configuring infrastructure as code. On the ops side, [devops best practices to improve application reliability](https://www.infoworld.com/article/3613155/5-devops-practices-to-improve-application-reliability.html) include improving apps’ observability, increasing monitoring, and automating cloud and infrastructure operations.
 ***
 ![[dev-ops.png]]
+***
+### The Best DevOps Definition
+
+DevOps is a bridge between Development and Operations that lets the teams reach continuous software integration and delivery. There are many approaches and ways to describe this culture, but we insist on sticking to the basics. So, what is the most accurate definition of DevOps? Unsurprisingly, it is given by GitLab: “… A software engineering methodology which aims to integrate the work of software development and software operations teams by facilitating a culture of collaboration and shared responsibility.”
+***
 
 #dev-ops
 #definition 

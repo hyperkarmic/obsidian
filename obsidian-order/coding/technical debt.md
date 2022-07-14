@@ -30,5 +30,27 @@ Technical Debt:My simple definition of technical debt is when technologies runni
 Ref: [www.techopedia.com/definition/27913/technical-debt](http://www.techopedia.com/definition/27913/technical-debt)
 ***
 ![[coding/img/tech-debt.png]]
+***
+-   **Developers who don’t know what technical debt is, have no chance of not creating it.**
+-   **Those who know about technical debt but don’t put in steps to prevent it will create technical debt.**
+-   **The development teams who put in quality steps to stop it from being added (rules, processes, standards, code reviews) will keep most of the technical debt at bay but cannot stop it from sneaking into the code base.**
+***
+# **Technical debt is inevitable**
+
+Technical debt is an inevitable part of multiple developers with different skill levels working on the same codebase using an agile project methodology.
+
+A common cause is agile development. Drip feeding features/requirements results in adding extra functionality to existing code you couldn’t predict in the original design. Development teams find themselves in the tough position of adding new features that need to work with existing features, but were never designed originally to do that.
+
+Time and deadlines create technical debt. Development teams are not given time to redesign the code, so they have to push square pegs through round holes.
+***
+At certain points, it needs to be rationalised to take multiple designs and make one cleaner, logical design. Like trimming away unneeded sentences and words from a document. This process brings clarity to the code and simplifies it.
+
+Removing technical debt doesn’t have instant benefits. The benefits are long-term. This doesn’t fit in with the short-term nature of current software development that focuses only on the creation of software but not on its maintenance.
+
+The maintenance costs are future problems that will be owned by someone else.
+***
+
+
+
 #technical-debt
 #coding #Fowler 

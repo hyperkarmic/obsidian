@@ -15,7 +15,15 @@ Thus, at whatever point there is an adjustment of the condition of any component
 
 Later, it tracks down the most ideal ways of rolling out these improvements to the genuine DOM. Presently just the refreshed components will get delivered on the page once more.
 ***
+_The virtual DOM (VDOM) is a programming concept where an ideal, or “virtual”, representation of a UI is kept in memory and synced with the “real” DOM by a library such as ReactDOM. This process is called reconciliation._
+- reacts own definition
+***
+![[virtual-dom.png]]
+***
+React parses the tree using the Breadth-first search (BFS).
 
+Always keep in mind, Virtual DOM does not physically exist, it’s an in-memory representation or a blueprint of Real DOM.
+***
 
 #DOM #virtual-dom
 #react 

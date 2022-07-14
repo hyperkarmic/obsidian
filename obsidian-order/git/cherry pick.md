@@ -19,9 +19,18 @@ git cherry-pick  <commit hash>
 ```
 
 ***
+What cherry-pick does is, it enables arbitrary Git commits to be picked by reference and appended to the current working HEAD. Therefore, Cherry picking is the act of picking a commit from a branch and applying it to another.
+***
 
+Chill, It's just a meme. Cherry-picking is much easier. All you need is -
 
+-   A freshly created branch from the branch you finally want to merge your changes to.
+-   Your original commit hash, which looks something like _3cf741bbdbcdeed65e5371912742e854a035e665_. (Don't worry, you only need the first 8 characters of the whole hash i.e. _3cf741bb_)
 
-#cherry
+Now switch to your newly created branch and run the following command. (click!!!!)
+
+```git cherry-pick <commitSHA>  ---> i.e. git cherry-pick 3cf741bb
+
+```
 
 #git 

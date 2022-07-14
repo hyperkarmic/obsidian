@@ -24,6 +24,14 @@ Design Pattern:A Design Pattern is a simple, scalable, highly reusable solution 
   <hr>
 
 Design Pattern:Design Patterns aren't about classes, objects, or even composition vs inheritance. They are a compendium of complex problems and their simple, scalable, highly reusable solutions — and that's where our focus should be.
+***
+
+![[designpatterns2.jpg]]
+
+***
+In Software Engineering, Design patterns are templates to solve common problems. However, they are generalized solutions; hence you cannot directly apply them to any specific use case.
+***
+
 #designpatterns
 #creational
 #structural

@@ -108,6 +108,21 @@ There are different types of testing commonly used which include: black box and 
 ![[tdd-pyramid.png]]
 ***
 ![[TDD/img/test life cycle.png]]
+![[test.png]]
 ***
 
-#TDD #tdd #tests #defintion
+
+# Why it’s important?
+
+-   Having tests coverage will help you to refactor your code. Because you have tests to figure out if your refactoring broke nothing, you can do it as you want. You can take the risk to refactor, without risk, because it’s tested !
+-   Writing test before writting production code will make you wrote only the part of code you need, no dead code. If you limit the amount of code, you make obviously it clearer, so cleaner.
+-   In TDD, your tests are “Intent-based”. That means your tests will describe what is the attended comportement of your code, awareless of the details implementations. This has two advantages, first, refactor will not break all your tests each times (because tests are awareless of implementation). Second, your tests will serve as a living code documentation.
+
+***
+
+
+
+![[tdd-cycle-2.png]]
+***
+
+#tests #defintion #TDD #tdd

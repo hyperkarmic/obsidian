@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "eaa97e033c2097ea",
+        "id": "eac0e60101642bfb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docker kubenetes/container.md",
+            "file": "quotes/quotes.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "todo",
+                "query": "quotes",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -50,11 +50,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 312
+    "width": 311
   },
   "right": {
     "id": "554515bf18dc56f9",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker kubenetes/container.md",
+                "file": "quotes/quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker kubenetes/container.md"
+                "file": "quotes/quotes.md"
               }
             }
           },
@@ -141,19 +142,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267
+    "width": 241
   },
-  "active": "eaa97e033c2097ea",
+  "active": "eac0e60101642bfb",
   "lastOpenFiles": [
-    "docker kubenetes/container.md",
-    "Untitled.md",
-    "career/on dev.md",
-    "UX-UI/UX-definition.md",
-    "dev/stack.md",
-    "projects/todo advice.md",
-    "TDD/TDD - definition.md",
-    "this/this.md",
-    "handlebars/templates.md",
-    "coding/technical debt.md"
+    "quotes/quotes.md",
+    "a11y/Untitled.md",
+    "execution context/execution context defined.md",
+    "execution context/call stack.md",
+    "backend/environment variable.md",
+    "git/cherry pick.md",
+    "dev-ops/definition.md",
+    "nlp/Untitled.md",
+    "nlp/self  determination.md",
+    "nlp/grahams hierachy of diasagreement.md"
   ]
 }

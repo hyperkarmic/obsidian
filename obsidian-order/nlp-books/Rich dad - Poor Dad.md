@@ -432,4 +432,10 @@
     
 -   Is there anything more dangerous than dissatisfied and irresponsible gods who don't know what they want?
 
+***
+also - see
+[The Lessons My Rich Dad Taught Me That My Poor Dad Couldn’t | by Nimit Sharma | Jun, 2022 | Medium](https://medium.com/@nimitsharma7496/the-lessons-my-rich-dad-taught-me-that-my-poor-dad-couldnt-4b7c675119e0)
+***
+
+
 #rich #dad #poor #kiyosaki
