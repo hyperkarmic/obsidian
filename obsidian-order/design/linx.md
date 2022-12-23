@@ -55,23 +55,58 @@
 [Meta Tags — Preview, Edit and Generate](https://metatags.io/)
 
 [Site Unreachable](https://codemyui.com/)
-
-
+[Hello: Search Engine for Developers](https://beta.sayhello.so/)
 [shaper — interface styles shaper](https://hihayk.github.io/shaper/)
 
 [Behance](https://www.behance.net/search/projects?search=portfolio%20website&tracking_source=typeahead_nav_direct)
 
- 
+ [Gradientify - Web based all-in-one Gradient editor](https://gradientify.com/#try-gradientify)
  [boss tips](web.dev)
- 
+
+[Cleanup.pictures - Remove objects, people, text and defects from any picture for free](https://cleanup.pictures/)
+-object remover for photos
 #linx 
 
+[Beautiful web app screenshots | Webframe](https://webframe.xyz/)
+web-app design inspiration
 
+learn lang easy.....
+[Exercism](https://exercism.org/tracks)
 
-
-
-
-
-
+[Gradients for Tailwind CSS | Hypercolor](https://hypercolor.dev/)
+-tailwind gradients
 #linx
 #design
+
+[Free Logo Maker - Create a Custom Logo Design Online - Namecheap](https://www.namecheap.com/logo-maker/)
+linx
+
+[The Algorithms](https://the-algorithms.com/)
+DDT === the end.
+
+css ===  goat
+[Codrops | Creative front-end resources and inspiration for web professionals](https://tympanus.net/codrops/)
+
+[Algorithm Visualizer](https://algorithm-visualizer.org/)
+[The Algorithms](https://the-algorithms.com/)
+
+[DhiWise: App Development Platform for High Productivity](https://www.dhiwise.com/)
+my figma/react designs.....will destroy this fucking world.
+
+[A collection of popular layouts and patterns made with CSS - CSS Layout](https://csslayout.io/)
+as says...
+
+[Type Scale - A Visual Calculator](https://type-scale.com/)
+view google fonts..... - a doozy!!!!!
+
+animista.net - css animations
+
+web.dev - tutorials and design schizzle
+
+[Hero Patterns | Free repeatable SVG background patterns for your web projects](https://heropatterns.com/)
+
+[MagicPattern - Beautiful & cool backgrounds with 10+ tools!](https://www.magicpattern.design/)
+
+[Grid by Example - Usage examples of CSS Grid Layout](https://gridbyexample.com/examples/)
+
+[FLEX: A simple visual cheatsheet for flexbox](https://flexbox.malven.co/)

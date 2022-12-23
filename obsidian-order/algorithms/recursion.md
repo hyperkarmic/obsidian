@@ -11,6 +11,8 @@ Recursion: JavaScript’s routine for handling recursion is known as tail recurs
 ![[recursion.png]]
 
 ***
+The key buzzwords that should set off _recursion_ in your head as viable approaches include: combinations, permutations, subsets, and all possible X's.
+***
 
 #algorithms 
 #recursion

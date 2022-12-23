@@ -98,3 +98,13 @@ To simplify, inner functions always have access to the outer functions via _clo
 -   setTimeouts
 -   Module design pattern
 ***
+The simplest possible explanation for a closure is an exported nested function.
+
+We know that all variables and functions are only visible in a specific scope. But exported functions can remember their parent scope even when they’re used outside of it.
+***
+_A closure is the combination of a function and the lexical environment within which that function was declared._
+
+It is an inner function that has access to the outer (enclosing) function’s variables — the scope chain. The closure has three scope chains: it has access to its scope (variables defined between its curly brackets), it has access to the outer function’s variables, and it has access to the global variables.
+***
+You have a closure when a function accesses variables defined outside of it.
+***

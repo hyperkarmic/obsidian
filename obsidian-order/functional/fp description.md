@@ -11,6 +11,9 @@ Before starting, let me first introduce you to the main feature of Haskell, beca
 
 -   Functions are first-class citizens. So, all simple logic is a function and all complex logic is handled by doing operations between functions.
 -   Functions have to be pure. This means whatever input you give, the output should always remain the same. The only way to interact with pure functions is via input and output only. It cannot access global states or cannot print anything or cannot even throw exceptions until defined in the function definition.
+***
+In summary, there are three main reasons why functional languages do not need special-purpose `for` and `while` loop constructs. First, functional programming languages treat everything as an expression, whereas `for` and `while` loops are statements and not expressions. Second, functions, when defined in terms of themselves, are enough to formulate repeated computations. Finally, functional languages support tail-recursion optimization. This means a tail-recursive function uses a similar amount of memory as an equivalent loop and hence does not cause stack overflow problems.
+***
 
 #functional-programming #fp
 

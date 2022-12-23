@@ -780,7 +780,42 @@ If you can't describe what you are doing as a process, you don't know what y
  
 “Professional is not a label you give yourself — it’s a description you hope others will apply to you.” — [David Maister](http://about.davidmaister.com/bio/), a former Harvard Business School professor and American writer
 ***
+> _“You can gain experience, if you are careful to avoid empty redundancy. Do not fall into the error of the artisan who boasts of_ **_twenty years experience_** _in craft while in fact he has had only_ **_one year of experience–twenty times_**_. And never resent the advantage of experience your elders have. Recall that they have paid for this experience in the coin of life, and have emptied a purse that cannot be refilled.”_
+> 
+> [- Trevanian, Shibumi](https://www.aamboli.com/quotes/book/shibumi)
 
+****
+"Novices are very concerned about their ability to succeed; with little experience to guide them, they really don’t know whether their actions will all turn out OK. Novices don’t particularly want to learn; they just want to accomplish an immediate goal. They do not know how to respond to mistakes and so are fairly vulnerable to confusion when things go awry." - Andy Hunt - Pragmatic Thinking
+***
+Once past the hurdles of the novice, one begins to see the problems from the viewpoint of the advanced beginner. Advanced beginners can start to break away from the fixed rule set a little bit. They can try tasks on their own, but they still have difficulty troubleshooting.
+Andy Hunt - Pragmatic Thinking
+***
+At this third stage, practitioners can now develop conceptual models of the problem domain and work with those models effectively. They can troubleshoot problems on their own and begin to figure out novel problems-ones they haven’t faced before. They can begin to seek out and apply advice from experts and use it effectively.
+
+Andy Hunt - Pragmatic Thinking
+***
+Proficient practitioners need the big picture. They will seek out and want to understand the larger conceptual framework around this skill. They will be very frustrated by oversimplified information.
+
+Amdy Hunt - Pragmatic Thinking
+***
+
+Experts are the primary sources of knowledge and information in any field…The expert knows the difference between irrelevant details and the very important details, perhaps not on a conscious level, but the expert knows which details to focus on and which details can be safely ignored. The expert is very good at targeted, focused pattern matching.
+
+Andy Hunt - Pragmatic Thinking
+***
+When you are not very skilled in some area, you are more likely to think you’re actually pretty expert at it.
+
+Andy Hunt - Pragmatic Thinking
+***
+[Miriam Suzanne](https://twitter.com/MiriSuzanne/status/1261075490628005888), _“CSS out here trying to do graphic design of unknown content on an infinite and unknown canvas, across operating systems, interfaces, & languages. There’s no possible way for any of us to know what we’re doing.”_
+***
+![[hosk.jpg]]  
+
+### the hosk
+***
+“Programs must be written for people to read, and only incidentally for machines to execute.” — Harold Abelson
+***
+Every time you write a comment, you should grimace and feel the failure of your ability of expression. -- Robert C. Martin
 #quotes
 
 

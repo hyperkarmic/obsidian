@@ -46,5 +46,9 @@ API stands for an application programming interface. It is the back-end side of 
 ***
 ![[api2.png]]
 ***
-
+We can view APIs as some little magical boxes where we send data — then get data back.
+***
+The API is not the database or even the server, it is the code that governs the access point(s) for the server.
+***
+![[apis/img/api-call-cheatsheet.webp]]
 #API #definition 

@@ -79,5 +79,8 @@ Be certain to document your changes once you’ve finished refactoring. This wil
 ## 7. Use a Source Control System
 
 It’s critical to use a source control system when refactoring code so that you can easily revert to a previous version if something goes wrong. This may save you a lot of time and frustration in the event that you make a mistake.
+***
+Refactoring is a systematic process of improving code without creating new functionality that can transform a mess into clean code and simple design.
+***
 
 #refactor #refactoring #coding #fowler

@@ -14,5 +14,48 @@ While media queries changed a lot, they still had one problem: they’re not reu
 ***
 ![[media-queries.png]]
 ***
+### Media query is a CSS technique that uses the @media rule to include a block of CSS properties only if a certain condition is true.
+***
+![[anatomy.jpg]]
+***
+![[mq-syntax.jpg]]
+***
+Common breakpoints on Devices ie use these.....
+![[mq-sizes.jpg]]
+***
+## What is a Media Query?
+
+A Media query is a CSS3 feature that makes a webpage adapt its layout to different screen sizes and media types.
+***
+![[mq-syntax-2.jpg]]
+
+***
+**Important: Always put your media queries at the end of your CSS file.**
+***
+### Breakpoints 
+are maybe the most common term you will hear and use. A breakpoint is a key to determine when to change the layout and adapt the new rules inside the media queries.
+****
+## Alright, what’s a viewport size?
+
+The viewport size is the visible area of a web page. It is what you see on different devices, the visible area.
+***
+![[mq.png]]
+***
+![[responsive design/img/Media-Queries.png]]
+***
+![[mq-code.png]]
+
+***
+![[rule.webp]]
+***
+![[mq-do.webp]]
+***
+![[css-media-query.png]]
+![[mq-sizes2.jpg]]
+***
+![[breakpoints.png]]
+
+
+
 
 #media-query

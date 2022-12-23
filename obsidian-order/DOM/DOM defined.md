@@ -18,6 +18,21 @@ The DOM represents the structural pieces of a web document as objects that can b
 -   Navigate the structure of web documents.  
 -   Add, modify, or delete elements and content within web documents.
 
-  
+  ***
+  Whenever a web document — such as HTML — is loaded in the browser, an object-based representation of the document’s elements is created in a tree-like structure. This object representation is called the Document Object Model, also known as the DOM.
+
+Due to its object-based nature, JavaScript and other scripting languages understand the DOM and can interact and manipulate the document content. For instance, with the DOM, developers can add or remove elements, modify their appearance and perform user’s actions on the web elements.
+
+DOM operations like DOM querying and updating are lighter and thus are very fast. However, for the update to reflect on the web page, the page will have to re-render.
+***
+Following are some uses of JS DOM Methods:
+
+1.  Add event listeners to listen for clicks, scrolls on different objects in DOM.
+2.  Add, modify, delete different objects.
+3.  Make web page interactive.
+4.  JS DOM fundamentals hold great importance in learning JavaScript frameworks (React/ Angular/ Vue etc.)
+5.  Add and remove classes from objects triggering animations. You can check an example of animation using DOM [here](https://www.w3schools.com/js/tryit.asp?filename=tryjs_dom_animate_3).
+***
+![[dom.jpg]]
 
 #dom #DOM #definition 

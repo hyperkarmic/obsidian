@@ -16,6 +16,6 @@ The question is what if we want to do inheritance to another Prototype? This can
 
 JavaScript, it’s no longer recommended to practice OOP using Prototype, because in ES6 the class keyword has been introduced which will be discussed in a separate chapter.
 ***
-
+![[prototype-chain.jpg]]
 #prototype
 #OOP #js #javascript 

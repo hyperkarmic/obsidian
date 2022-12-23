@@ -13,8 +13,15 @@ Universal design follows seven key principles:
 6.  **Low physical effort:** The design can be used efficiently and comfortably and with a minimum of fatigue.
 7.  **Size and space for approach and use:** Appropriate size and space is provided for approach, reach, manipulation, and use regardless of user’s body size, posture, or mobility.
 
+ Ranald Mace’s concept of Universal Design which is “_the design of products to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design.”_
+ ***
+ 
+In [“Accessibility for Everyone”](https://abookapart.com/products/accessibility-for-everyone) Laura Kalbag explains that the difference between accessible and universal design is subtle but important. An accessible designer would create a large door for people on a wheel chair to enter, while a universal designer would produce an entry that anyone would fit disregarding of their abilities.
+***
+
 #universal-design
 #design #burke
 #Molly-Burke
 #ux #UX
 
+#Mace #Ranald

@@ -74,7 +74,12 @@ A promise is an object — a **placeholder** for the eventual result.
 ***
 ![[promise-july3.jpeg]]
 
-
+***
+-   `resolve` maps to `then` and `reject` maps to `catch`
+***
+![[promise3.png]]
+***
+![[promise4.png]]
 #asynchronous
 #promises
 #definition

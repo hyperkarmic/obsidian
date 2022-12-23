@@ -54,6 +54,15 @@ A Progressive Web App includes features from both worlds (web and native apps).
 -   They are discoverable via a search engine.
 -   They are easily installable.
 -   Low maintenance cost.
+***
+A PWA, by its original definition, must meet these three requirements:
+
+-   **Service worker:** Provides offline functionality.
+-   **Web manifest:** JSON markup to configure home screen and app icons.
+-   **Security:** HTTPS is enforced, because a service worker runs in the background.
+
+These components allow you to pass the [Google Lighthouse PWA audit](https://web.dev/lighthouse-pwa/) and get the green checkmark on your score.
+***
 
 
 #PWA

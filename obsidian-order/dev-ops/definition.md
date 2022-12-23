@@ -19,6 +19,44 @@ Devops is primarily associated with the collaboration between developers and ope
 
 DevOps is a bridge between Development and Operations that lets the teams reach continuous software integration and delivery. There are many approaches and ways to describe this culture, but we insist on sticking to the basics. So, what is the most accurate definition of DevOps? Unsurprisingly, it is given by GitLab: “… A software engineering methodology which aims to integrate the work of software development and software operations teams by facilitating a culture of collaboration and shared responsibility.”
 ***
+**What Is DevOps?**
+
+DevOps is a collection of practices that bring software development and IT operations together. It focuses on contacting the system’s development life cycle and ensures that software is delivered in a timely and high-quality manner. Several DevOps aspects come in tandem with Agile Software Development.
+
+DevOps brings together formerly disparate tasks (development, IT operations, quality engineering, and security) to **synchronize** and create **more reliable products.**
+
+‘To synchronize here means to collaborate and coordinate as a team to produce better and more well-founded products.’
+***
+![[devops.jpeg]]
+***
+## What Is DevOps?  
+
+DevOps is an engineering culture that focuses on integrating development and operations together for more efficient development. The term "DevOps" refers to organizational collaboration rather than a framework or standard. To achieve continuous integration and deployment, the various stages of the DevOps life cycle are concentrated on continuously monitoring, operating, implementing, and responding to end-user feedback.
+
+DevOps lifecycle consists of 8 processes that include:
+
+**1. Planning:** Before working on a project, plan, track, visualize, and summarize it.
+
+**2. Coding:** Developers use version control platforms like Git, Github, and Gitlab to write their code.
+
+**3. Building:** Developers use tools like Kubernetes, Docker, Maven, Gradle, and Apache to create a pre-release version that is recognized by a build number rather than a release number.
+
+**4. Testing:** The QA team runs the new piece of code through testing to find and resolve bugs.
+
+**5. Release:** In this step, the built process is planned, scheduled, and controlled in a new setting.
+
+**6. Deploy:** During this stage, the deployment procedure is ongoing. It is done in a way that any modifications made to the code at any point shouldn't have an impact on how a busy website operates.
+
+**7. Operate:** The product or application is supplied to the customer for usage after it has been deployed, where he can utilize it for his everyday needs.
+
+**8. Monitor:** The operation team will address any improper system behavior or problems discovered in production during this period.
+
+### Advantages of DevOps
+
+-   **Faster Delivery** - DevOps principles are always known for faster iteration and standardized processes that make them readily available in the market
+-   **Breaking down silos** - DevOps has replaced the antiquated linear process in which one team would finish all responsibilities related to a project before handing it off to another team to continue working on it, and so on.
+-   **Software quality** - Because DevOps facilitates frequent releases, it's easier to discover and fix problems which in turn results in higher software stability. Because of this, there is more time to concentrate on quality and innovations.
+***
 
 #dev-ops
 #definition 

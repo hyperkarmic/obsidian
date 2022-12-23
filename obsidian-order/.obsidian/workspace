@@ -4,15 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "eac0e60101642bfb",
+        "id": "d6210d0432ef5271",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "quotes/quotes.md",
+            "file": "js/hoisting.md",
             "mode": "source",
             "backlinks": true,
             "source": false
+          }
+        }
+      },
+      {
+        "id": "dff48a3e72a1c33b",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "css/img/element-position.jpg"
           }
         }
       }
@@ -41,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quotes",
+                "query": "hoisting",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -55,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311
+    "width": 333.5
   },
   "right": {
     "id": "554515bf18dc56f9",
@@ -85,9 +95,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quotes/quotes.md",
+                "file": "js/hoisting.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quotes/quotes.md"
+                "file": "js/hoisting.md"
               }
             }
           },
@@ -142,19 +152,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241
+    "width": 100
   },
-  "active": "eac0e60101642bfb",
+  "active": "d6210d0432ef5271",
   "lastOpenFiles": [
+    "js/scope.md",
+    "functional/composition.md",
+    "closures/closures.md",
+    "js/hoisting.md",
     "quotes/quotes.md",
-    "a11y/Untitled.md",
-    "execution context/execution context defined.md",
-    "execution context/call stack.md",
-    "backend/environment variable.md",
-    "git/cherry pick.md",
-    "dev-ops/definition.md",
-    "nlp/Untitled.md",
-    "nlp/self  determination.md",
-    "nlp/grahams hierachy of diasagreement.md"
+    "nlp/simple-system.md",
+    "linux/vim/Untitled 1.md",
+    "linux/vim/7 habits of txt.md",
+    "linux/vim/Untitled.md",
+    "linux/vim/y--e.md"
   ]
 }

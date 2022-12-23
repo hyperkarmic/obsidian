@@ -47,4 +47,17 @@ Let’s summarize this article:-
 -   Function declarations are hoisted but not functional expressions
 
 We should make it a habit to use `let` and `const` over `var` to avoid unnecessary errors.
+***
+## Hoisting - Proper Explanation
+
+Imagining that variables declared with `var` and function definitions are pulled to the top of the file is a good mental model when you’re trying to understand a piece of code. But that’s now how JavaScript really works.
+
+The engine compiles JavaScript to machine code before executing it. And in the process of that compilation, it makes multiple runs through our code. In one of the early runs, it will declare all functions and variables.
+
+So when the code is executed they are already defined.
+***
+Hoisting is a mechanism in JavaScript which some declarations do before their execution, like a bubble the JS engine will bring them up to the first and declare them before others, like the `var` keyword for variable declarations, variables introduced with `var` can be called before assigning the value and you’ll get the `undefined` result or the `functions` that declared with the `function` keyword can be called before the declaration in JavaScript.
+***
+
+## [](https://alexkondov.com/half-hour-to-learn-js/#variable-declaration)
 #hoisting #js #javascript 

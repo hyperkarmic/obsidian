@@ -169,3 +169,16 @@ If you want to know more about **Design Patterns** and **SOLID Design Princip
 
 ***
 ![[solid.png]]
+***
+![[solid2.png]]
+***
+![[single-responsibility.png]]
+***
+
+![[open-closed.png]]
+***
+![[liskov-corona.png]]
+***
+![[interface-segregation-principle.png]]
+***
+![[dependency-inversion.png]]

@@ -28,11 +28,24 @@ Let’s first discuss how we can use props in our child component. There are mai
 ***
 Props is any data passed into a React Component [props=”value”]. It helps to make components dynamic.
 ***
-Adding props to a component is pretty simple
-``````
-<BlogPostComponent  
+## What Are Props in React?
+
+Props simply stands for properties. They are what make components reusable. Because they perform an essential function – they pass data from one component to another.  
+
+Props act as a channel for component communication. Props are passed from parent to child and help your child access properties that made it into the parent's tree.
+***
+-   We use props in both functional and class-based components.
+-   We pass props from the top to bottom. We can also refer to it as ancestor to descendant, or parent to child.
+-   Props are read-only. This means that once a component receives a bunch of props, we cannot change it, but we can only use and consume it and cannot modify the properties passed down to the component. If we want to modify that, we'll have to introduce what we call state in React.
+***
+
+
+	
+	
+	Adding props to a component is pretty simple
+BlogPostComponent  
 title='First post'  
 subtitle='Created by me'
 />
-
 ***
+![[props v comp.png]]

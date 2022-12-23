@@ -9,6 +9,6 @@ In simple terms, you can now wrap up all the pieces your software needs in a sin
 
 **Docker** allows you to quickly deploy your application with all of its dependencies in one shot while also providing process isolation. Similarly, Kubernetes, a container orchestration tool, takes it a step further by managing containers for you.
 ***
-
+![[docker.png]]
 #docker
 #definition 

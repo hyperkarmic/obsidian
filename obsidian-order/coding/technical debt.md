@@ -49,8 +49,25 @@ Removing technical debt doesn’t have instant benefits. The benefits are long-t
 
 The maintenance costs are future problems that will be owned by someone else.
 ***
+Technical debt arises when **choosing a non-ideal technical implementation over an ideal one**. The most common reason to choose this path is to save time _in the present_ because most of the time you are required to implement the ideal solution in the future anyway.
 
+Furthermore, just like with regular debt, interest is to be paid over technical debt. This comes in many forms but comes down to **having to spend more time on changes due to imperfect implementations**.
 
+For example, a method is duplicated because extracting it properly is considered too time-consuming. When that method later requires a change, you are required to make _two_ changes, as the code is duplicated. This extra second change is an example of interest on technical debt.
+***
+#### 4 types of tech debt
+![[4debts.jpg]]
+There are four main types of technical debt:
 
+-   **Test Automation Debt**: uncovered code
+-   **Defect Debt**: incorrectnesses in the working of code
+-   **Documentation Debt**: lack of proper documentation
+-   **Design Debt**: deviations from desired design
+***
+ ![[tech-debt-dil.png]]
+
+***
+
+Interest on technical debt takes one of these four forms as well, revealing its dangerous property to grow exponentially.
 #technical-debt
 #coding #Fowler 

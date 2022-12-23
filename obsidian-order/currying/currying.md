@@ -18,6 +18,12 @@ Currying is a transformation technique in the javascript functions. The currying
 
 Basically currying is a transformation of taking multiple parameters at a time taking arguments sequentially and returning a new function, the next function takes another argument and continues the flow like that.
 ***
+# Currying
+
+It is a method to transform the function with multiple arguments into several functions of a single argument in a sequence.
+
+In simple words, a function instead of taking all arguments one at a time takes the first one and returns a new function that takes the second one and then returns a new function that takes the third one, and this process keeps going until all arguments have been fulfilled.
+***
 
 
 #currying

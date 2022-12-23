@@ -66,5 +66,20 @@ Technically we could just place our whole state at our top-level component and p
 > Context provides a way to pass data through the component tree without having to pass props down manually at every level.
 
 By combining React's state-related hooks (`useState` and `useReducer`) with React context you can provide a shared state to all components nested within the contexts `Provider`. Problem solved, right? Well, no. 
+***
+# Context
+
+Context is React’s way of managing state in version 16.3.
+
+You create a “Context” object, then you put a Provider component and all children components can access that data.
+
+It’s pretty easy to use, but you need to take into consideration that updates may re-render stuff when you don’t want to. Other than that, it’s a pretty solid choice for a state management tool.
+***
+“Context provides a way to pass data through the component tree without having to pass props down manually at every level.”  
+  
+— React Docs
+
+You can imagine React’s context as some kind of a “wormhole” that you can pass values through somewhere up your component tree and access them further down in your children’s components.
+***
 
 #react #context

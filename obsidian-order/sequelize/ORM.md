@@ -45,4 +45,25 @@ But there are a few disadvantages of ORMs as well.
 <hr>
 ORM is a library to access the database, high-level library where you can define models, relations. Other option is to write pure SQL, and it's a valid option when performance is the biggest concern, but this way is not well suited for dynamic queries.
 
-ORM is needed to make you more productive, to have automatically returned TS types instead of defining them each time by hand, to make it more safely so you can't accidentally pass dangerous string into SQL. Ideal ORM allows to define queries and then combine and reuse them to construct more complex queries.
+ORM is needed to make you more productive, to have automatically returned TS types instead of defining them each time by hand, to make it more safely so you can't accidentally pass dangerous string into SQL. Ideal ORM allows to define queries and then combine and reuse them to construct more complex queries
+***
+Object Relational Mapping (ORM) is a technique used in creating a "bridge" between object-oriented programs and, in most cases, [relational databases](https://www.freecodecamp.org/news/what-is-a-relational-database-rdbms-definition/).
+
+Put another way, you can see the ORM as the layer that connects [object oriented programming](https://www.freecodecamp.org/news/four-pillars-of-object-oriented-programming/) (OOP) to relational databases.
+***
+## Advantages of Using ORM Tools
+
+Here are some of the advantages of using an ORM tool:
+
+-   It speeds up development time for teams.
+-   Decreases the cost of development.
+-   Handles the logic required to interact with databases.
+-   Improves security. ORM tools are built to eliminate the possibility of SQL injection attacks.
+-   You write less code when using ORM tools than with SQL.
+
+## Disadvantages of Using ORM Tools
+
+-   Learning how to use ORM tools can be time consuming.
+-   They are likely not going to perform better when very complex queries are involved.
+-   ORMs are generally slower than using SQL.
+***

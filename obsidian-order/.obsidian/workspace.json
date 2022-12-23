@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "ee72d34dcbd8d3e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "edf878d89b742054",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2fb164408a4344f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nlp/CODE system.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57e93d92376e8508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nlp/Professionalism.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b88ddc17a8d0328",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nlp/Believability.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a7829357758c7a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "de04940aff4ee7b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f9243e1373e8530",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39670b2f27fa8e18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "nlp",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "554515bf18dc56f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dcebce682d8891f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d372abdbbb9147d4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d32c41fe860fc3dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53fb7d1ffc4dc09a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "career/jobs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "bb757ce38a7ca8c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e75a8aeef819ce88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "nlp/Professionalism.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f60754c3afc00dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "nlp/Professionalism.md"
+              }
+            }
+          },
+          {
+            "id": "67e9c3ac13eea60e",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "613e8183c4de20a9",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2b8c65a4d9629db",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d2fd06ac35350c1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5,
+    "collapsed": true
+  },
+  "active": "57e93d92376e8508",
+  "lastOpenFiles": [
+    "nlp/CODE system.md",
+    "design/linx.md",
+    "REACT/MERN.md",
+    "coding/Wrapper.md",
+    "closures/closures.md",
+    "hooks/useEffect.md",
+    "css/positioning.md",
+    "event loop/event loop definition.md",
+    "event loop/img/web-loop.gif",
+    "event loop/img/event loop.png"
+  ]
+}
