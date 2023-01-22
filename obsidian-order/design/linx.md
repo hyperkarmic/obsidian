@@ -110,3 +110,30 @@ web.dev - tutorials and design schizzle
 [Grid by Example - Usage examples of CSS Grid Layout](https://gridbyexample.com/examples/)
 
 [FLEX: A simple visual cheatsheet for flexbox](https://flexbox.malven.co/)
+
+[mmmotif: SVG generator for 3D-like isomorphic patterns | fffuel](https://fffuel.co/mmmotif/)
+svg gen
+
+[Ava Maker - Free Avatar Maker Online](https://avamake.com/)
+avator maker
+
+[Pure CSS Stripes Generator - No Flash, No Image, ONLY CSS](https://stripesgenerator.com/)
+css stripes
+
+[CSS Gradient — Generator, Maker, and Background](https://cssgradient.io/)
+more gradients
+
+[CSS Glow Generator - CSS Bud](https://cssbud.com/css-generator/css-glow-generator/)
+glow effects
+
+[Clippy — CSS clip-path maker](https://bennettfeely.com/clippy/)
+complex shapes
+
+[Animista - On-Demand CSS Animations Library](https://animista.net/play)
+animation playground
+
+[Interactive CSS Grid Generator | Layoutit Grid](https://grid.layoutit.com/)
+grid tool
+
+
+

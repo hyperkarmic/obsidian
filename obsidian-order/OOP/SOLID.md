@@ -182,3 +182,6 @@ If you want to know more about **Design Patterns** and **SOLID Design Princip
 ![[interface-segregation-principle.png]]
 ***
 ![[dependency-inversion.png]]
+***
+![[solid-.png]]
+#OOP #SOLID #open-closed #single-responsibility-principle #interface-segregation

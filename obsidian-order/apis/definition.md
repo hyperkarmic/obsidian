@@ -51,4 +51,22 @@ We can view APIs as some little magical boxes where we send data — then get da
 The API is not the database or even the server, it is the code that governs the access point(s) for the server.
 ***
 ![[apis/img/api-call-cheatsheet.webp]]
+***
+## What’s an API?
+
+API stands for **application programming interface**, and it can describe anything that allows two programs to communicate with each other. For example, methods such as `document.insertNode` aren’t actually part of JavaScript: they’re a part of the DOM API that allows your program to communicate with the DOM.
+
+Web APIs allow your code to communicate and interact with websites and online services in a controlled way. In most cases, this is done by sending a request that returns some data, which is almost always in JSON format. This data can then be used in your code.
+
+Many APIs also allow you to offload some of the workload from your application to an external service. For example, if you wanted to translate a document, you could avoid having to write all the code for doing this this and instead use an API.
+***
+![[api.gif]]
+***
+![[api.jpeg]]
+***
+![[api.jpg]]
+***
+![[api-history.jpg]]
+***
+![[api-basics.jpg]]
 #API #definition 

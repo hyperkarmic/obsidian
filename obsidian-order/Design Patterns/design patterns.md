@@ -30,8 +30,13 @@ Design Pattern:Design Patterns aren't about classes, objects, or even compositio
 
 ***
 In Software Engineering, Design patterns are templates to solve common problems. However, they are generalized solutions; hence you cannot directly apply them to any specific use case.
-***
 
+
+![[design-patterns-a.jpg]]
+***
+![[design-pattern-typology.webp]]
+***
+![[most-important-desisign-patterns.jpg]]
 #designpatterns
 #creational
 #structural

@@ -1,0 +1,5 @@
+
+![[SeCaas.jpg]]
+
+#SecaaS
+#architecture 

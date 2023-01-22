@@ -1,0 +1,7 @@
+
+![[SQLStatement.jpg]]
+
+
+
+
+#SQL #staements

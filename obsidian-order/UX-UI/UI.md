@@ -61,5 +61,51 @@ It deals with the screen layout, transitions, interface animations, and even sin
 -   UI Prototyping
 ***
 ![[7 ui design basics.png]]
+***
+#### What does UI design involve
+
+Like user experience design, user interface design is a multi-faceted and challenging role. It is responsible for the transference of a product’s development, research, content and layout into **an attractive, guiding and responsive experience for users.**
+
+We’ll look at [the UI design process and specific tasks that a UI designer can expect](https://careerfoundry.com/en/blog/ui-design/what-does-a-ui-designer-actually-do/) in section four. Before we consider the main differences between UX and UI, let’s quickly recap on what user interface (UI) design is all about:
+
+1.  1.  -   User interface design is a purely digital practice. It considers all the visual, interactive elements of a product interface—including buttons, icons, spacing, typography, color schemes, and responsive design.
+        -   The goal of UI design is to visually guide the user through a product’s interface. It’s all about creating an intuitive experience that doesn’t require the user to think too much!
+        -   UI design transfers the brand’s strengths and visual assets to a product’s interface, making sure the design is consistent, coherent, and aesthetically pleasing.
+***
+#### What does UI design involve
+
+Like user experience design, user interface design is a multi-faceted and challenging role. It is responsible for the transference of a product’s development, research, content and layout into **an attractive, guiding and responsive experience for users.**
+
+We’ll look at [the UI design process and specific tasks that a UI designer can expect](https://careerfoundry.com/en/blog/ui-design/what-does-a-ui-designer-actually-do/) in section four. Before we consider the main differences between UX and UI, let’s quickly recap on what user interface (UI) design is all about:
+
+1.  1.  -   User interface design is a purely digital practice. It considers all the visual, interactive elements of a product interface—including buttons, icons, spacing, typography, color schemes, and responsive design.
+        -   The goal of UI design is to visually guide the user through a product’s interface. It’s all about creating an intuitive experience that doesn’t require the user to think too much!
+        -   UI design transfers the brand’s strengths and visual assets to a product’s interface, making sure the design is consistent, coherent, and aesthetically pleasing.
+***
+If you imagine a product as the human body, the bones represent the code which give it structure. The organs represent the UX design: measuring and optimizing against input for supporting life functions. UI design represents the cosmetics of the body; its presentation, its senses and reactions.
+***
+As Rahul Varshney, co-creator of [Foster.fm](http://foster.fm/) puts it:
+
+> “User Experience (UX) and User Interface (UI) are some of the most confused and misused terms in our field. A UI without UX is like a painter slapping paint onto a canvas without thought; while UX without UI is like the frame of a sculpture with no paper mache on it. A great product experience starts with UX followed by UI. Both are essential for the product’s success.”
+
+If you’ve got room for one more analogy, Dain Miller sums up the relationship between UX and UI design perfectly:
+
+> “UI is the saddle, the stirrups, and the reins. UX is the feeling you get being able to ride the horse.”
+
+***
+With the skeleton of the product mapped out, the UI designer steps in to bring it to life. The UI designer considers all the visual aspects of the user’s journey, including all the individual screens and touchpoints that the user might encounter; think tapping a button, scrolling down a page or swiping through an image gallery.
+
+While the UX designer maps out the journey, the UI designer focuses on all the details that make this journey possible. That’s not to say that UI design is all about looks; UI designers have a huge impact on whether or not a product is accessible and inclusive.
+***
+-   UX design is all about identifying and solving user problems; UI design is all about creating intuitive, aesthetically-pleasing, interactive interfaces.
+-   UX design usually comes first in the product development process, followed by UI. The UX designer maps out the bare bones of the user journey; the UI designer then fills it in with visual and interactive elements.
+-   UX can apply to any kind of product, service, or experience; UI is specific to digital products and experiences.
+***
+Helga Moreno, who put it rather eloquently in her article [The Gap Between UX And UI Design](https://onextrapixel.com/the-gap-between-ui-and-ux-design-know-the-difference/):
+
+> “Something that looks great but is difficult to use is exemplary of great UI and poor UX. While something very usable that looks terrible is exemplary of great UX and poor UI.”
+
+***
+![[ui.jpeg]]
 #UI #ui
 #definition 

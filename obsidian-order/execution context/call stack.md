@@ -13,8 +13,10 @@ A stack is a data structure that follows the Last in First Out (LIFO) principle.
 -   STEP 2: A Function execution context is added to the stack when a function is invoked or called.
 -   STEP 3: The Invoked function is executed and removed (popped) from the stack, along with its execution context.
 ***
+![[call-stack.jpg]]
+ ***
+  ![[call-stack.png]]
 
-  
 #callstack #LIFO
 #execution-context 
 

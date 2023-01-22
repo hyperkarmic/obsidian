@@ -31,4 +31,22 @@ The event loop determines the order in which the code will run. It brings the sy
 To understand what an event loop is and to learn all its mechanisms, we need to distinguish between the two concepts, which are the synchronous and asynchronous code. The synchronous code is the one that, when called, calls itself line by line, has no side effects and will be executed from A to Z, exactly what was called. The asynchronous code, on the other hand, is a code that, at certain stages of the call, part of the code is delegated to be caljjjjjjjjjjjjjjjjjjjjjjjhe synchronous code, we would either have to wait for the data or show an animation. In the asynchronous code, we can alternate tasks at the same time. We will not notice this because it will be managed by the browser.![[web-loop.gif]]
 ***
 ![[runtime-env-js.jpeg]]
+***
+![[ev-loop.png]]
+***
+![[event-loop-cycle.jpg]]
+***
+![[event-loop-explained.jpg]]
+***
+![[event-loop-job.jpg]]
+***
+![[event-loop.jpg]]
+***
+![[event loop/img/js-event-loop-explained-again.png]]
+***
+![[nodejs.jpg]]
+***
+![[simple-event-loop.png]]
+***
+![[event-loop-.jpg]]
 #event-loop #js #javascript 

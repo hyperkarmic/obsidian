@@ -1,0 +1,2 @@
+![[sucvsnotsuc.jpg]]
+#NLP 

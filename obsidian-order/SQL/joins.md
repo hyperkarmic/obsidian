@@ -14,4 +14,10 @@ RIGHT (OUTER) JOIN: Retrieves all the records/rows from the right and the matche
 FULL (OUTER) JOIN: Retrieves all the records where there is a match in either the left or right table.
 
 1.  What is a Self-Join? A self JOIN is a case of regular join where a table is joined to itself based on some relation between its own column(s). Self-join uses the INNER JOIN or LEFT JOIN clause and a table alias is used to assign different names to the table within the query.
+***
+![[sql_join.jpg]]
+***
+![[sql_joins_syntax.jpg]]
+![[sql-join-brown.jpg]]
+
 #joins #SQL

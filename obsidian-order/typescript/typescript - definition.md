@@ -50,6 +50,8 @@ The most obvious solution to that problem is to phase features in slowly — you
 -   TypeScript brings you typed variables and interfaces
 -   IntelliSense and auto-completion is implemented
 ***
-
+![[typescript.jpg]]
+***
+![[typescript-interface.jpg]]
 #typescript
 #definition 

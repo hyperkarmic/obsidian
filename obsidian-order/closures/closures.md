@@ -108,3 +108,4 @@ It is an inner function that has access to the outer (enclosing) function’s va
 ***
 You have a closure when a function accesses variables defined outside of it.
 ***
+![[closure.jpg]]

@@ -14,5 +14,6 @@ SQL means Structured Query Language, and it isn’t even an actual programming l
 ***
 
 ![[sql2.png]]
-
+***
+![[sql-def.jpg]]
 #SQL #definition 

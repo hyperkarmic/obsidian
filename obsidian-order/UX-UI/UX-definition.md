@@ -134,5 +134,6 @@ Key points in UX designing:-
 ![[UX-UI/img/ux-design.png]]
 ***
 ![[UX-UI/img/ux-vs-ui.png]]
-
+***
+![[ux.jpg]]
 #ux #UX 

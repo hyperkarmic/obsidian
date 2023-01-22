@@ -80,6 +80,10 @@ A promise is an object — a **placeholder** for the eventual result.
 ![[promise3.png]]
 ***
 ![[promise4.png]]
+***
+![[promise-definition-.jpg]]
+***
+![[promise-.jpeg]]
 #asynchronous
 #promises
 #definition

@@ -27,9 +27,9 @@ An element with absolute position is positioned relative to its closest position
 Literally every nav/top nav has this as position. This is a hybrid of fixed and relative/static. Let’s break it down and see what it brings to table.
 
 So, the quirks this position element gets from static/relative is that it follows the normal flow of the webpage till it hits the specified mark, and the moment it hits that specified mark it acts like an overlay, fixed on that place.
-
+![[css-position.jpg]]
 ***
-![[element-position.jpg]]
+
 ***
 ![[css-pos.jpg]]
 ***

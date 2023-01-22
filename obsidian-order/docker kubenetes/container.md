@@ -24,6 +24,12 @@ Containers provide the following advantages:
 
 A container is based on an image. An image contains all the information to create a container in the same way that a class contains the information to instantiate an object and a blueprint contains the information to construct a building.
 ***
-![[docker kubenetes/img/web-container.png]]
+![[container.jpg]]
+***
+![[containerization.jpg]]
+***
+
+
+
 #container
 #docker #kubenetes

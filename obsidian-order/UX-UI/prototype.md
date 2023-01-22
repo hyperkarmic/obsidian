@@ -35,6 +35,10 @@ The Prototype is typically not a refactor of the PoC but a rewrite because of th
 ***
 ![[proto_vs_class.png]]
 ***
+_“So what is a prototype? The answer: it’s a simulation of the final product. It’s like an interactive mockup that can have any degree of fidelity. The main purpose of building prototypes is to test whether or not the flow of the product is smooth and consistent” ([UXmag](https://uxmag.com/articles/what-a-prototype-is-and-is-not))_
+***
+“_Prototyping is a critical step in product design. Final products are complicated, and therefore difficult to change. Prototypes are relatively cheap to build and rearrange. And while they take effort up front, planning and testing a prototype is well worth the effort”_ ([CreativeBloq](http://www.creativebloq.com/web-design/why-web-designers-should-never-skip-prototyping-91516933))
+***
 
 #prototype #prototyping
 #UX #design 

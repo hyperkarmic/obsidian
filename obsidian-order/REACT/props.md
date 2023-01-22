@@ -49,3 +49,5 @@ subtitle='Created by me'
 />
 ***
 ![[props v comp.png]]
+***
+![[props.jpg]]

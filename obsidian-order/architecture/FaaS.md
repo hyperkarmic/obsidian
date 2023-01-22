@@ -1,0 +1,5 @@
+
+![[FaaS.jpg]]
+
+
+#Faas #architectecture

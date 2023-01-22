@@ -90,7 +90,8 @@ The Environment Record is of two types:
 -   Declarative Environment Record: This is mainly used by a Lexical Environment created in the Function Execution Context. It records (store) function declarations and variable declarations. The Declarative Environment Record also stores an `arguments` object, which contains the length(number) of argument(s) passed to a function, and a map of the argument(s) and its index.
 -   Object Environment Record: This is mainly used by a Lexical Environment created in the Global Execution Context. It stores function declarations, variable declarations, and a global binding object(window object in browsers).
 ***
-
-
+![[context.jpg]]
+***
+![[executioncontext.jpg]]
 #execution-context #xc #definition 
 #execution-context #javascript #js

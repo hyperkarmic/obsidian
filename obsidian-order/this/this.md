@@ -89,4 +89,21 @@ Let’s sum it up. The binding principles of `this` were as follows:
 4.  `new` binding, an instance of the construction `new`, and `this` pointing to the instance object of `new`.
 ***
 ![[this.jpg]]
+***
+# How to determine this value
+
+Here I will try to give a strict and concise algorithm, with the help of which even an inexperienced coder will be able to understand what this equals in his particular case. More verbose explanations will be hidden under spoilers so as not to litter the visual space.
+
+1. If we are not inside the function, then “this” is equal to the global object, if not, we go down further to the second point!
+
+2. If we are inside an arrow function, then the value of “this” is the value of “this” that is outside of that function. The value of this in an arrow function is determined solely by where (in what lexical context) it was created, and does not depend in any way on how it was subsequently called. If not, then let’s move on!
+
+3. If this function is called with the new operator, then “this” will refer to the newly created object in the function’s constructor. If not, then let’s move on again!
+
+4. If this function is created using the `bind` or `call` or `apply` function, then the value of “this” will be an argument from this function, if not, then we go further.
+
+5.If this function is received as a property of the object and called, then “this” will be equal to the given object, if not, we go down to the last paragraph
+
+6.If the function is called in strict mode “use strict” then “this” is equal to `undefined` otherwise it is equal to the global object!
+
 . #this

@@ -45,5 +45,7 @@ Async/Await is just a syntactic sugar of Promise still it is really helpful to u
 -   Error handling and conditional handling is better.
 
 ***
-
+![[async.jpg]]
+***
+![[await.jpg]]
 #async #await

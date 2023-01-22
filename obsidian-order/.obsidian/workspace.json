@@ -4,42 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "edf878d89b742054",
+        "id": "6c2768d5479eac2a",
         "type": "tabs",
         "children": [
           {
-            "id": "e2fb164408a4344f",
+            "id": "4add8264ec51bcae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nlp/CODE system.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57e93d92376e8508",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nlp/Professionalism.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b88ddc17a8d0328",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nlp/Believability.md",
+                "file": "algorithms/21 algorithms.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +21,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -76,20 +50,28 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nlp",
+                "query": "linx",
                 "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "59acb30807ae2390",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 486.5
   },
   "right": {
     "id": "554515bf18dc56f9",
@@ -138,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nlp/Professionalism.md",
+                "file": "algorithms/21 algorithms.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nlp/Professionalism.md"
+                "file": "algorithms/21 algorithms.md"
               }
             }
           },
@@ -198,17 +180,27 @@
     "width": 284.5,
     "collapsed": true
   },
-  "active": "57e93d92376e8508",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "4add8264ec51bcae",
   "lastOpenFiles": [
-    "nlp/CODE system.md",
-    "design/linx.md",
-    "REACT/MERN.md",
-    "coding/Wrapper.md",
-    "closures/closures.md",
-    "hooks/useEffect.md",
-    "css/positioning.md",
-    "event loop/event loop definition.md",
-    "event loop/img/web-loop.gif",
-    "event loop/img/event loop.png"
+    "algorithms/20algorithms.md",
+    "algorithms/10 heuristics.md",
+    "UX-UI/UX-definition.md",
+    "UX-UI/Law of Prägnanz.md",
+    "UX-UI/img/requirements.jpg",
+    "typescript/typescript - definition.md",
+    "UX-UI/UI.md",
+    "nlp/thinking hats defined.md",
+    "nlp/thinking  hats.md",
+    "OOP/SOLID.md"
   ]
 }

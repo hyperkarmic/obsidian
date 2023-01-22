@@ -18,6 +18,10 @@ Universal design follows seven key principles:
  
 In [“Accessibility for Everyone”](https://abookapart.com/products/accessibility-for-everyone) Laura Kalbag explains that the difference between accessible and universal design is subtle but important. An accessible designer would create a large door for people on a wheel chair to enter, while a universal designer would produce an entry that anyone would fit disregarding of their abilities.
 ***
+## 1. What is universal design?
+
+[Universal design was first defined in 1997](https://projects.ncsu.edu/ncsu/design/cud/about_ud/udprinciplestext.htm) by “a working group of architects, product designers, engineers and environmental design researchers” at The Center for Universal Design at North Carolina State University as: “The design of products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design.”
+***
 
 #universal-design
 #design #burke

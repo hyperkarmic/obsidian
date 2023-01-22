@@ -6,6 +6,10 @@
 __React: a__ library __for building web applications in a declarative fashion.__
 ***
 
+![[react.jpg]]
+***
 
 ![[react.png]]   
+***
+
 #mission  #react

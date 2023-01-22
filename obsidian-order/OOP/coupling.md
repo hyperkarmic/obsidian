@@ -16,7 +16,7 @@ If we don’t follow this best practice, **we risk trending toward _high coupl
 ***
 _Two systems are loosely coupled if changes to the design, implementation, or behavior in one won’t cause changes in another._
 ***
-
+![[coupling.png]]
   
 #coupling
 #OOP 

@@ -84,5 +84,7 @@ Here are a few ideas of what to include in the portfolio:
 -   Share your career goals (technology to learn, projects to build) and highlight your passion for studying (attended industry events and conferences)
 -   What you did, do and going to do to meet your career goals
 ***
-
+![[portfol.jpg]]
+***
+![[portfolio.jpg]]
 #portfolio

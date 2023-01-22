@@ -14,5 +14,6 @@ Agile is an iterative approach to project management and software development th
   
 ***
 ![[agile.png]]
-
+***
+![[agile/img/agile.jpg]]
 #agile 

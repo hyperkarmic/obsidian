@@ -11,4 +11,6 @@
 Responsive Design is the practice of making sure your content looks good on all screen sizes. Everything in the website including layouts, fonts and images should automatically adapt to the user's device.
 ***
 ![[responsive-typo.png]]
+***
+![[responsive.jpg]]
 #responsive #definition #responsive-design

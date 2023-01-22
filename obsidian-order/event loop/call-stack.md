@@ -12,6 +12,8 @@ The Callback queue is a data structure that operates on the **FIFO (first-in-fi
 Callback functions that need to be asynchronously executed, are pushed onto the callback queue.
 
 These are later pushed to the Call stack to be executed (when the event loop finds an empty call stack).
+***
+![[callstack.jpg]]
 
 #call-stack
 #event-loop

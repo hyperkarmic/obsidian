@@ -66,6 +66,8 @@ The art of being a fast React developer is an art of separating business logic f
 ![[react component.png]]
 
 ***
+![[react-component-lifestyle.jpg]]
+***
 
 #components 
 #REACT #react 

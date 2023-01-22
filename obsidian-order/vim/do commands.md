@@ -1,0 +1,3 @@
+![[bufdo.jpg]]
+
+#vim #do

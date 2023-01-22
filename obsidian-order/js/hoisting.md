@@ -58,6 +58,6 @@ So when the code is executed they are already defined.
 ***
 Hoisting is a mechanism in JavaScript which some declarations do before their execution, like a bubble the JS engine will bring them up to the first and declare them before others, like the `var` keyword for variable declarations, variables introduced with `var` can be called before assigning the value and you’ll get the `undefined` result or the `functions` that declared with the `function` keyword can be called before the declaration in JavaScript.
 ***
-
+![[hoisting.webp]]
 ## [](https://alexkondov.com/half-hour-to-learn-js/#variable-declaration)
 #hoisting #js #javascript 

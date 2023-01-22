@@ -24,5 +24,5 @@ With the MVC pattern of organization an application can be organized in smaller,
 ***
 what is important is the idea that we can and should divide any significant codebase into a data layer (Model), a presentation layer (View), and some sort of layer that mediates between the two (Controller or View Model). MVCS additionally suggests that service calls to the persistence layer/backend should be separated out as well.
 ***
-
+![[mvc.jpg]]
 #mvc #model #view #controller 

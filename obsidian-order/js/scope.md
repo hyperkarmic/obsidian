@@ -35,5 +35,5 @@ Scope consists of a series of bubbles that each act as a container or bucket in 
 
 [Kyle Simpson](https://twitter.com/getify?ref=hackernoon.com) (Author of YDKJS series)#scope
 ***
-
+![[scope.jpg]]
 #js #javascript

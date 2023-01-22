@@ -44,7 +44,21 @@ Primarily, It is the middle fidelity of any UI Design Process, which is Graphic 
 -   Draws the outline and layout structure.
 -   Depicts the most basic UI.
 ***
+A wireframe is a static low-to-mid fidelity simulation of the product concept, depicting the skeletal framework of a webpage or app. Wireframes provide a clear outline of the page structure, layout, information architecture, and overall direction. Traditionally created in greyscale (without the use of color), wireframes can be hand-drawn with pen and paper, or digitally using design software.
+***
+Wireframing is the most efficient way to test your product concept and define your user journey, making it an essential step in the product design process. Wireframes enable designers to quickly explore layout and interaction concepts to gather valuable insights from user and stakeholder feedback. A wireframe effectively acts as a jumping off point for the product design process, before iterating into later phases where the user interface will be optimized with color, typography or iconograph
+***
+### How to make your wireframe good: Three key principles
 
+1.  [Maintain clarity](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/#clarity)
+2.  [Gain user confidence](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/#confidence)
+3.  [Simplicity is key](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/#simplicity-is-key)
+***
+Wireframing is a practice used by [UX designers](https://careerfoundry.com/en/courses/become-a-ux-designer/) which allows them to define and plan the information hierarchy of their design for a website, app, or product. This process focuses on how the designer or client wants the user to process information on a site, based on the [user research](https://careerfoundry.com/en/blog/ux-design/how-to-conduct-user-experience-research-like-a-professional/) already performed by the UX design team.
+***
+[A wireframe is a basic, low-fidelity representation](https://careerfoundry.com/en/blog/ux-design/what-is-a-wireframe-guide/) of the initial product concept, containing the essential elements that would feature on a webpage or app.
+
+Wireframes provide a clear outline of the page structure, layout, [information architecture](https://careerfoundry.com/en/blog/ux-design/a-beginners-guide-to-information-architecture/), and overall direction. A wireframe traditionally only uses black, white and grey, and can either be drawn by hand or created digitally.
 #design 
 #wireframe
 #ux #UX 

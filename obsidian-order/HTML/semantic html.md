@@ -1,0 +1,6 @@
+
+![[semantic.jpg]]
+
+
+
+#semantic #html 

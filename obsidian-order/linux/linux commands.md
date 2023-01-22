@@ -1,0 +1,4 @@
+![[linux.jpg]]
+
+
+#linux #commands

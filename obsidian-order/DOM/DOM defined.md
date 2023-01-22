@@ -31,8 +31,13 @@ Following are some uses of JS DOM Methods:
 2.  Add, modify, delete different objects.
 3.  Make web page interactive.
 4.  JS DOM fundamentals hold great importance in learning JavaScript frameworks (React/ Angular/ Vue etc.)
-5.  Add and remove classes from objects triggering animations. You can check an example of animation using DOM [here](https://www.w3schools.com/js/tryit.asp?filename=tryjs_dom_animate_3).
+5.  Add and remove classes from objects triggering animations. You can check an example![[dom2.jpg]] of animation using DOM [here](https://www.w3schools.com/js/tryit.asp?filename=tryjs_dom_animate_3).
 ***
 ![[dom.jpg]]
-
+***
+![[dom-.jpg]]
+***
+![[dom-selector.jpg]]
+***
+![[DOM.png]]
 #dom #DOM #definition 

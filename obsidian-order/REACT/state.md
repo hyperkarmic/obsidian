@@ -8,6 +8,8 @@ A state is the current data passed in React components. State management in Reac
 -   Server Cache State — the state from the server, which is cached client-side
 -   URL State — the state managed by your browser (filtering, querying etc)
 ***
+![[react-state.jpg]]
+***
 
 #state #react #coding 
 
