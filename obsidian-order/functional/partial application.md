@@ -8,6 +8,8 @@ _Partial Application_ is having a function with a certain number of parameters,
 
 
 ***
+In partial application, the instantiation of some of the function’s parameters is delayed.
+***
 
 
 #partial-application #functions #functional #fp 

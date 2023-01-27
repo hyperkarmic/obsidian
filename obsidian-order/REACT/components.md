@@ -68,6 +68,26 @@ The art of being a fast React developer is an art of separating business logic f
 ***
 ![[react-component-lifestyle.jpg]]
 ***
+[Components](https://pandaquests.medium.com/components-in-reactjs-3974f7a65874): In React, a component is a piece of code that represents a part of the UI. Components can be reused throughout the app, which helps make the code more reusable and easier to maintain.
+***
+A component in ReactJS is a piece of code that simulates a certain user interface element (UI). You can use it as a little building piece to create more intricate UI elements.
+***
+Components in ReactJS offer several advantages:
+
+-   Reusability: You may create reusable user interface (UI) components using components, allowing you to reuse the same component across different areas of your app. You won’t have to write the same code repeatedly, which can save a lot of time and work.
+-   Maintainability: The self-contained nature of the components makes it simpler to maintain and upgrade your project. If a component needs to be changed, you just need to make the change once, and it will be reflected everywhere the component is used.
+-   Readability: If you give your components names that are descriptive, components might make your code simpler to read and comprehend. This can be extremely useful, if you’re working in a group or need to return to your code after a break.
+-   Testability: Components are easy to test one by one, which can save you time and effort when writing and debugging your code.
+-   Scalability: Because you can simply reuse existing components and create new ones as needed, components make it easier to scale your app as it expands.
+***
+Components in ReactJS can be used in a variety of ways:
+
+-   Building UI elements: Components can be used to build UI elements such as buttons, forms, lists, and more. This can save you time and effort, as you can reuse these components throughout your app.
+-   Organizing code: Components can help you organize your code into logical pieces, which can make it easier to understand and maintain.
+-   Sharing state: Components can share state (data) with each other through props (short for properties) and state. This can be especially helpful if you have data that needs to be displayed or used in multiple places throughout your app.
+-   Abstracting complexity: Components can help you abstract complexity by breaking your app down into smaller, more manageable pieces. This can make it easier to understand and work with your code.
+-   Testing: Components can be tested in isolation, which can save you time and effort when debugging and ensuring the quality of your code.
+***
 
 #components 
 #REACT #react 

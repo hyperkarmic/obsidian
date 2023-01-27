@@ -27,9 +27,10 @@ The callback function means A reference to executable code or a piece of executa
 
 From the above definition, the callback function is a function passed into another function as an argument, which is then invoked inside the outer function to complete some kind of routine or action.
 ***
-
+A callback is a function that is passed as an argument to another function and is executed after the outer function has completed. In JavaScript, callbacks are often used to perform actions after an asynchronous operation has completed.
 ***
-
-
+Callbacks enable asynchronous programming in JavaScript because they allow the program to specify a function to be called when an asynchronous operation has completed, rather than blocking the program’s execution until the operation is finished. This allows the program to continue executing other code while it is waiting for the asynchronous operation to complete. When the operation is finished, the callback function is called, and the program can then perform any necessary actions based on the results of the asynchronous operation.
+***
+	In summary, callbacks are functions that are called after an asynchronous operation has completed, and they enable asynchronous programming in JavaScript by allowing the program to continue executing other code while it is waiting for the operation to finish.
 #callback
 #js #javascript 

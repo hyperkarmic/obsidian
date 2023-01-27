@@ -51,3 +51,12 @@ subtitle='Created by me'
 ![[props v comp.png]]
 ***
 ![[props.jpg]]
+***
+[Props](https://pandaquests.medium.com/props-in-reactjs-3f24d6414d2c): Props are a way to pass data from a parent component to a child component. They are read-only in the child component and are used to customize the child component's behavior.
+***
+Props are short for “properties” in ReactJS. They are pieces of information received by a component from its parent component.
+***
+To conclude, while props are a valuable tool in ReactJS, it’s important to use them appropriately and not rely on them too heavily. In some cases, other features like state or context may be better suited to manage data in your application.
+
+Props in ReactJS are used to pass data from a parent component to a child component.
+***

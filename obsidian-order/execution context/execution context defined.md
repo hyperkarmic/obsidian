@@ -93,5 +93,11 @@ The Environment Record is of two types:
 ![[context.jpg]]
 ***
 ![[executioncontext.jpg]]
+***
+## Execution context
+
+The execution context is created when a function is called, and it determines the variable and function scope that is available to the code being executed. The execution context also includes the value of the ‘this’ keyword, which can change depending on how a function is called.
+***
+
 #execution-context #xc #definition 
 #execution-context #javascript #js

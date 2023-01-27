@@ -16,4 +16,15 @@ SQL means Structured Query Language, and it isn’t even an actual programming l
 ![[sql2.png]]
 ***
 ![[sql-def.jpg]]
+***
+SQL is used to perform a variety of tasks, including:
+
+-   Creating and modifying databases and tables
+-   Inserting, updating, and deleting data from databases
+-   Retrieving data from databases
+-   Setting permissions and user access for databases
+***
+Typing in SQL code to create, insert, retrieve, etc. is called a SQL query. SQL uses a variety of commands and clauses to perform these tasks.
+***
+
 #SQL #definition 

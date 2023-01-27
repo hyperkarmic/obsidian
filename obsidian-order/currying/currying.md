@@ -24,7 +24,12 @@ It is a method to transform the function with multiple arguments into several fu
 
 In simple words, a function instead of taking all arguments one at a time takes the first one and returns a new function that takes the second one and then returns a new function that takes the third one, and this process keeps going until all arguments have been fulfilled.
 ***
+Currying is a powerful functional programming technique that can help simplify your code and make it more reusable. In JavaScript, currying is a way to transform a function with multiple arguments into a series of functions that each take a single argument. This can make your code more readable and easier to test, as well as open up new possibilities for functional composition and partial application. In this article, we’ll explore the basics of currying in JavaScript and show how it can be used to write more expressive and maintainable code.
 
+As mentioned in the beginning, currying is a functional programming technique where a function with multiple arguments is transformed into a series of functions, each of which takes a single argument. The returned function captures the original function’s arguments and returns a new function that expects the next argument. This process is repeated until all arguments have been passed, at which point the original function is called with all of its arguments.
+
+In JavaScript, currying can be achieved by manually setting up nested closures, or by using a library such as Ramda or Lodash that provide curry functions.
+***
 
 #currying
  #hof

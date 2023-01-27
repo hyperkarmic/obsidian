@@ -109,3 +109,25 @@ It is an inner function that has access to the outer (enclosing) function’s va
 You have a closure when a function accesses variables defined outside of it.
 ***
 ![[closure.jpg]]
+***
+## Advantages of closures in JavaScript
+
+-   Closures allow inner functions to retain access to the variables and functions of their parent scope, even after the parent function has finished executing. This can be useful for creating private variables and functions that can only be accessed by inner functions, or for creating functions that have access to a specific context or state.
+-   Closures can be used to create function factories, which are functions that return new functions with a specific configuration or state. This can be useful for creating a set of functions that share common behavior, but have different configurations or states.
+-   Closures can be used to create function decorators, which are functions that modify the behavior of other functions. This can be useful for adding common functionality to a set of functions, or for modifying the behavior of a function in a specific context.
+***
+## Disadvantages of closures in JavaScript
+
+-   Closures can make code more difficult to understand, because they can create chains of nested functions and variables that are not immediately visible in the code. This can make it harder to trace the flow of a program and understand how it is working.
+-   Closures can create memory leaks if they are not used correctly. For example, if a closure retains a reference to a large object, and that object is no longer needed, the closure will keep the object in memory and prevent it from being garbage collected. This can lead to performance issues and increased memory usage.
+-   Closures can create problems with the this keyword, because the value of this is determined by the context in which a function is called, rather than where it is defined. This can lead to confusion when using the this keyword in a closure, because the value of this may not be what is expected.
+***
+## Usages
+
+Closures have a wide range of uses. Here are a few common use cases for closures:
+
+-   Encapsulating private data: Closures can be used to create private variables that can only be accessed by functions within the closure. This can be useful for maintaining the privacy of data and preventing unintended modification.
+-   Partial function application: Closures can be used to create new functions that are based on existing functions, but with some of the arguments fixed. This is known as partial function application, and it can be useful for creating more specialized functions from a generic function.
+-   Asynchronous programming: Closures are often used in asynchronous programming, such as with callbacks or Promises, to preserve the value of variables when a function is called at a later time.
+-   Event handlers: Closures are frequently used to create event handlers in JavaScript. For example, when you add an event listener to a DOM element, the event handler function is likely to be a closure that captures the element and any other necessary data.
+-   Iteration: Closures can be used to create functions that iterate over a sequence of values. For example, the Array.prototype.forEach() method uses a closure to execute a function for each element in an array.
