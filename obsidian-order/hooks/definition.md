@@ -1,7 +1,8 @@
 # React Hooks Definitions:
 ### Hooks allow function components to have access to state and other React features. Because of this, class components are generally no longer needed.
 <hr>
-
+In a nutshell....useEffect fires code on a re-render!!!!!
+***
 ## Hooks allow us to "hook" into React features such as state and lifecycle methods.
 <hr>
 ## u must `import` Hooks from `react`.

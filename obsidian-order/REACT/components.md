@@ -88,6 +88,15 @@ Components in ReactJS can be used in a variety of ways:
 -   Abstracting complexity: Components can help you abstract complexity by breaking your app down into smaller, more manageable pieces. This can make it easier to understand and work with your code.
 -   Testing: Components can be tested in isolation, which can save you time and effort when debugging and ensuring the quality of your code.
 ***
+## **𝗧𝗵𝗲 𝟰 𝗯𝗶𝗴𝗴𝗲𝘀𝘁 𝗺𝗶𝘀𝘁𝗮𝗸𝗲𝘀 𝗼𝗳𝘁𝗲𝗻 𝗺𝗮𝗱𝗲 𝘄𝗵𝗲𝗻 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗰𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀**
+
+Here are some of the biggest mistakes leading to nothing but pain and frustration when maintaining components:
+
+-   Building complex components
+-   Adding multiple responsibilities to single components
+-   Building components coupled with several moving parts
+-   Adding business logic in components
+***
 
 #components 
 #REACT #react 
