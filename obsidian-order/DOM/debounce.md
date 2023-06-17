@@ -14,4 +14,7 @@ Debouncing is a programming technique that is used to limit the rate at which a 
 For example, let’s say you have a function that gets called every time the user scrolls the page. Without debouncing, this function would get called multiple times as the user scrolls, which can be resource intensive and may lead to a less smooth scrolling experience.
 
 By applying debouncing to the scroll event, we can group all of the scroll events that occur within a certain time period into a single event, and then execute the function only once for that event. This helps to reduce the number of times the function gets called and can improve the overall performance of the website or web application.
+***
+
+![[debounce.jpg]]
 #debounce #DOM #js 

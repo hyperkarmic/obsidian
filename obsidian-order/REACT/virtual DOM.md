@@ -70,5 +70,35 @@ Some common use cases for the Virtual DOM include:
 -   Handling user input: The Virtual DOM can also be useful when handling user input, such as form submissions or button clicks. It can help ensure that the DOM updates smoothly and efficiently in response to user actions.
 -   Displaying large lists of data: If your web application displays a large amount of data, such as a list of products or a table of data, the Virtual DOM can help improve the performance of these updates by minimizing the number of DOM updates and re-renders that need to take place.
 -   Creating smooth animations: The Virtual DOM can also be used to create smooth and efficient animations in your React applications. By minimizing the number of DOM updates, the Virtual DOM can help ensure that your animations run smoothly and without interruption.
+***
+### Limitations of the Traditional DOM approach
+
+-   Performance: The conventional DOM technique can be time-consuming and memory-intensive for large documents. The reason for this is because the entire page is loaded into memory, it must be updated every time something is changed, which can take some time.
+    
+-   Complexity: Working with the DOM tree can be challenging, especially for developers new to web programming. As a result, the code could be challenging to read, comprehend, and maintain.
+    
+-   Restricted interactivity: The conventional DOM technique is not optimal for dynamic, interactive applications. While filling out a form, the user may need to render the entire document each time they enter a new character, which can be tedious and cumbersome.
+    
+-   Difficulty of scalability: Scaling large, sophisticated applications using the conventional DOM method is difficult. The DOM tree can become cumbersome and challenging to manage as the application expands in size and complexity.
+    
+
+### Benefits of working with the Virtual DOM
+
+-   Improved user experience: The virtual DOM can offer a better user experience by requiring less work to update the DOM. Applications created with the help of the virtual DOM can refresh their user interface more quickly, react to user interactions more quickly, and offer a more seamless experience in general.
+    
+-   Development Process Optimized: The virtual DOM optimizes development by using a declarative programming model. Developers may now declare how they want the application to look, and the virtual DOM will take care of the rest, according to this. This strategy can lessen the amount of code required, increase readability, and facilitate codebase maintenance.
+    
+-   Increased performance: By lowering the number of updates required to the actual DOM, the virtual DOM can greatly increase the performance of online applications. Instead of modifying the actual DOM directly, it accomplishes this by constructing a virtual version of the DOM and making changes to it. Once all the updates have been completed, the virtual DOM only makes the necessary updates to the actual DOM, minimizing the overall amount of work required.
+***
+![[react-dom.jpg]]
+***
+![[reactive-updates.jpg]]
+***
+
+![[virt-dom.jpg]]
+
+***
+![[virtual-dom.jpg]]
+
 #DOM #virtual-dom
 #react 

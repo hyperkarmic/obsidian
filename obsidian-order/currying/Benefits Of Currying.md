@@ -98,3 +98,5 @@ console.log(processNumber(2)); // 6
 console.log(processNumber(3)); // 8
 ```
 
+***
+![[benefits-of-curry.jpg]]

@@ -4,5 +4,8 @@ A module is a single file that can be imported and gives developers access to an
 ***
 ![[modules-types.jpg]]
 ***
+![[modules.jpg]]
+***
+![[modular.jpg]]
 
 #module

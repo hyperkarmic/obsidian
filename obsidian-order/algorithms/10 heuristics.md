@@ -18,5 +18,11 @@
 ![[heuristic9.webp]]
 ***
 ![[heuristic10.webp]]
+***
+
+
+
+
+
 #heurisitics
 #algorithms 

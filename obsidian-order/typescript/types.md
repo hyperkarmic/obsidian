@@ -1,0 +1,3 @@
+![[typescript.jpg]]
+
+#types #typescript 

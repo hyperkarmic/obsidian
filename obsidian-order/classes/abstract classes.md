@@ -1,0 +1,5 @@
+![[abstarctJS.jpg]]
+
+
+
+#abstract #classes

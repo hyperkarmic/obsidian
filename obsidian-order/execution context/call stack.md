@@ -16,7 +16,10 @@ A stack is a data structure that follows the Last in First Out (LIFO) principle.
 ![[call-stack.jpg]]
  ***
   ![[call-stack.png]]
-
+***
+![[callstackx.jpg]]
+***
+![[callstack-exc.jpg]]
 #callstack #LIFO
 #execution-context 
 

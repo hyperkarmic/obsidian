@@ -5,7 +5,7 @@
 
 Object is data that contains fields / properties / attributes and methods / functions / behavior
 ***
-
+![[variable-object-in-me-cre-stage-of-xc.jpg]]
 #object 
 #Objects
 #js #javascript 

@@ -10,6 +10,11 @@ Here are a few examples of events in React:
 -   Clicking a button: When a user clicks a button, an event is triggered and a specific action can occur, such as submitting a form or navigating to a new page.
 -   Hovering over an element: When a user hovers their mouse over a specific element, an event is triggered and a specific action can occur, such as displaying a tooltip or changing the color of the element.
 -   Typing in an input field: When a user types into an input field, an event is triggered and a specific action can occur, such as validating the input or displaying suggestions.
+***
+![[react-events.jpg]]
 
-
+***
+![[react-events1.jpg]]
+***
+![[react-events-2.jpg]]
 #react #events 

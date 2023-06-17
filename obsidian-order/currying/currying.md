@@ -30,6 +30,9 @@ As mentioned in the beginning, currying is a functional programming technique wh
 
 In JavaScript, currying can be achieved by manually setting up nested closures, or by using a library such as Ramda or Lodash that provide curry functions.
 ***
+![[curryin.jpg]]
+***
+![[prefer-curry.jpg]]
 
 #currying
  #hof

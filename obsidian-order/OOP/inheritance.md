@@ -19,3 +19,18 @@ Disadvantages: when inheriting the function of the parent class, the constructor
 (5) Parasitic inheritance: use constructors to inherit attributes, and inherit methods through the hybrid form of prototype chains
 
 (6) Parasitic composition only calls the constructor once, which combines the advantages of parasitic inheritance and composite inheritance. It is the most effective way to realize type-based inheritance. It is to assign the prototype of the parent class to the child class and set the constructor as the child class, which solves the useless parent attribute problem, parent call + Object.create(）
+***
+![[inheritance-oop.jpg]]
+***
+Inheritance in most class-based object-oriented languages is a mechanism in which one object acquires all the properties and behaviors of another object.
+***
+## Prototypal Inheritance (Behavior delegation pattern)
+
+-   `v1` and `v2` are linked to `Vehicle.prototype` because it’s been created using _new_ keyword.
+-   Similarly, `c1` and `c2` is linked to `Car.prototype` and `Car.prototype` is linked to `Vehicle.prototype`.
+-   In JavaScript when we create the object it does not copy the properties or behavior, it creates a link. Similar kind of linkage gets created in case of extend of class as well.
+-   All arrows go in the opposite direction compare to classical non-js inheritance because it’s a behavior delegation link. These links are known as prototype chain.
+-   This pattern is called _Behavior Delegation Pattern_ which commonly known as **_prototypal inheritance_** in JavaScript.
+***
+
+#inheritance #OOP

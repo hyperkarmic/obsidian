@@ -60,3 +60,22 @@ To conclude, while props are a valuable tool in ReactJS, it’s important to use
 
 Props in ReactJS are used to pass data from a parent component to a child component.
 ***
+![[children-prop.jpg]]
+***
+![[obsidian/obsidian-order/REACT/img/props/props.jpg]]
+***
+![[props_.jpg]]
+***
+![[props-again.jpg]]
+***
+![[props-intro.jpg]]
+***
+![[props-intro2.jpg]]
+***
+![[props-intro3.jpg]]
+***
+![[props1.jpg]]
+***
+![[diff-between-prop-state.jpg]]
+***
+![[props-vs-state.jpg]]

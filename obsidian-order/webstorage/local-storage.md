@@ -28,5 +28,18 @@ Local storage is a useful tool for storing data in the browser that needs to per
 -   Storing data for analytics: Local storage can be used to store data about the user’s interactions with a website, such as the pages they have visited or the actions they have taken, so that it can be analyzed and used to improve the website.
 
 As you can see, local storage is a versatile tool that can be used in a variety of situations where it is necessary to store data in the browser and make it available on subsequent visits to the website.
+***
+![[local-storage.jpg]]
+***
+![[local-storage_.jpg]]
+***
+![[local-storage-how.jpg]]
+
+***
+![[local-storage2.jpg]]
+***
+![[local-storage3.jpg]]
+***
+![[local-storage4.jpg]]
 #local-storage
 #webstorage 

@@ -1,0 +1,4 @@
+
+![[bigo.png]]
+
+#bigO #algorithms 

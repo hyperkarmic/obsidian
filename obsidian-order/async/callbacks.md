@@ -12,6 +12,7 @@ Callback Function:A callback function is a function passed as an argument to ano
 <hr>
 ![[callback.png]]
 
-
+***
+![[cback.jpg]]
 
 #callback #asynchronous  

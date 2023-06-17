@@ -11,6 +11,7 @@ Poor code review can happen if the following occurs.
 
 Some are valid reasons to rush. Although most forget what code reviews bring to the table. You can learn from others, share knowledge, and save time on future development.
 ***
-
-
+![[code-review.jpg]]
+***
+![[code-review.webp]]
 #code #review 

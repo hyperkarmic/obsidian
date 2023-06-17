@@ -69,4 +69,16 @@ Many APIs also allow you to offload some of the workload from your application t
 ![[api-history.jpg]]
 ***
 ![[api-basics.jpg]]
+***
+![[anatomy-of-an-api.jpg]]
+
+***
+![[api-messanger.jpg]]
+
+***
+![[apiwebp.webp]]
+***
+![[api-rest.jpg]]
+***
+![[api-postman.jpg]]
 #API #definition 

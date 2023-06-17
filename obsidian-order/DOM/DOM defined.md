@@ -40,4 +40,16 @@ Following are some uses of JS DOM Methods:
 ![[dom-selector.jpg]]
 ***
 ![[DOM.png]]
+***
+![[dynamic-dom.jpg]]
+
+***
+![[examiningDOM.jpg]]
+***
+![[dom-tokens.png]]
+
+***
+
+
+
 #dom #DOM #definition 

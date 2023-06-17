@@ -14,5 +14,5 @@ Views:The file were we store the HTML!!!!
 ***
 The view code is made of the frontend or graphical user interface. It will define **how and what and how the user sees and interacts** with the application. In a car, this is equivalent to a speedometer, and a fuel gauge.
 ***
-
+![[virtual-dom-exp.jpg]]
 #view #mvc 

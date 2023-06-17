@@ -40,5 +40,14 @@ Clean code is the art of making human readable code, easy to understand. Ideally
 ![[cleancodetests-.jpg]]
 ***
 ![[cleancodeuniversal-.jpg]]
+***
+![[cleancodedesignx.jpg]]
+***
+![[cleancodeformattingx.jpg]]
+***
+![[cleancodefunctionsx.jpg]]
+***
+![[clean-codex.jpg]]
+
 #clean-code 
 #definition 

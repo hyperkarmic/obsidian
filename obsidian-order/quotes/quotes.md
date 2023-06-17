@@ -816,6 +816,15 @@ Andy Hunt - Pragmatic Thinking
 “Programs must be written for people to read, and only incidentally for machines to execute.” — Harold Abelson
 ***
 Every time you write a comment, you should grimace and feel the failure of your ability of expression. -- Robert C. Martin
+***
+![[unk-bob.png]]
+***
+![[unk-bob-story.png]]
+***
+![[prag-quote.png]]
+***
+![[salesman-quote.png]]
+
 #quotes
 
 

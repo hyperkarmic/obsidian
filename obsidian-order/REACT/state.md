@@ -27,5 +27,19 @@ Here are a few examples of how state might be used in a React application:
 -   Handling user interactions: State can be used to track and respond to user interactions, such as clicks, hover events, and form submissions.
 -   Improving performance: State can be used to control when a component re-renders, allowing you to avoid unnecessary re-renders and improve the performance of your application.
 -   Debugging and troubleshooting: State can make it easier to debug and troubleshoot a React application by allowing you to track the data and behavior of individual components.
+
+***
+![[minimal-representation-of-state.jpg]]
+***
+![[st8.jpg]]
+***
+![[st8_.jpg]]
+***
+![[what-is-state.jpg]]
+***
+![[what-state.jpg]]
+***
+![[where-does-state-live?.jpg]]
+
 #state #react #coding 
 

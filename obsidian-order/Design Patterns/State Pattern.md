@@ -1,0 +1,9 @@
+![[3-main-roles-of-state-patterns.jpg]]
+***
+![[st8pattern.jpg]]
+***
+![[state-design-pattern.webp]]
+***
+![[stra-pattern-precis.jpg]]
+#state-pattern
+#designpatterns 

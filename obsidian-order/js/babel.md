@@ -1,0 +1,6 @@
+![[babel.jpg]]
+
+
+
+
+#babel #js

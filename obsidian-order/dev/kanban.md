@@ -1,0 +1,6 @@
+
+![[kanban.jpg]]
+
+
+
+#kanban #dev 

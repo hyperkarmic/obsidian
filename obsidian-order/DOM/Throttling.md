@@ -6,6 +6,6 @@ There are several ways to implement throttling in JavaScript. One common approac
 ***
 Throttling is a useful tool for optimizing the performance of web applications and providing a better user experience. However, it is important to use it carefully, as overuse or improper implementation can lead to unintended consequences and degrade performance.
 ***
-
+![[throttle.jpg]]
 #Throttle #Throttling
 #DOM #js 

@@ -42,5 +42,5 @@ While this may not be readily obvious to the inexperienced developer , being a g
 ***
 ## Knowledge is not the same as skill.
 ***
-
+![[job-programmer.jpg]]
 #dev #On-devc

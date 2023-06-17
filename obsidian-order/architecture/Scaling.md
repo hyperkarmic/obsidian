@@ -1,0 +1,4 @@
+![[scaling.png]]
+
+
+#scaling #architecture

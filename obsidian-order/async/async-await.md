@@ -48,4 +48,9 @@ Async/Await is just a syntactic sugar of Promise still it is really helpful to u
 ![[async.jpg]]
 ***
 ![[await.jpg]]
+***
+![[async-await.jpg]]
+***
+![[async-await2.jpg]]
+
 #async #await

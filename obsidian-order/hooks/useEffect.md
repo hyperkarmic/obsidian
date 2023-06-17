@@ -13,6 +13,16 @@ useEffect takes two params.
 Example.
 ***
 ![[component.jpg]]
+***
+![[use-effect-hook2.jpg]]
+***
+![[useFxHook2.jpg]]
+***
+![[use-effect-hook2.jpg]]
+***
+
+***
+![[userefhook.jpg]]
 
 #useEffect
 #hooks #react #REACT 

@@ -84,6 +84,19 @@ A promise is an object — a **placeholder** for the eventual result.
 ![[promise-definition-.jpg]]
 ***
 ![[promise-.jpeg]]
+***
+![[anatomy-of-a-promise.png]]
+
+***
+Promises improve asynchronous programming by:
+
+-   Simplifying error handling through chaining and centralized error management.
+    
+-   Making it easier to compose and manage multiple asynchronous operations.
+    
+-   Improving code readability and maintainability by avoiding nested callbacks.
+***
+![[promises.jpg]]
 #asynchronous
 #promises
 #definition

@@ -26,5 +26,8 @@ SQL is used to perform a variety of tasks, including:
 ***
 Typing in SQL code to create, insert, retrieve, etc. is called a SQL query. SQL uses a variety of commands and clauses to perform these tasks.
 ***
+![[sql-roadmap.jpg]]
+***
+
 
 #SQL #definition 

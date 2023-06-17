@@ -6,4 +6,13 @@
 ![[vimcheat.webp]]
 ***
 ![[cheet.webp]]
+***
+![[cheat-vim.pngwebappchart.png]]
+***
+
+![[cheat-vim.png]]
+***
+![[vim-sheet.png]]
+***
+![[vcheet.jpg]]
 #vim #cheatsheets 

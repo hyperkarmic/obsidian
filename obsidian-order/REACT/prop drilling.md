@@ -9,8 +9,8 @@ If we want to pass state in the picture then we have to pass 5 component. In thi
 
 In this case, we need to pass state from the top level of the application through all the intermediary components to the one which needs the data at the bottom, even though the intermediary levels don't need it. This tedious and time-consuming process is known as _prop drilling_.
 ***
-
+![[prop-drill.gif]]
 ***
-
+![[prop-drilling.jpg]]
 #prop-drilling
 #prop-drill #props #react 

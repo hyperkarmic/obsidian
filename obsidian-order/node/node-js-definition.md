@@ -11,5 +11,11 @@ Node is a run-time environment used for executing your web programs. It’s very
 Node.js is becoming more standardized even at enterprise-level organizations, so it’s a valuable tool to master.
 ***
 ![[node.png]]
+***
+![[nodeJs-you-can-do-what.jpg]]
+***
+
+![[node-ticklist.jpg]]
+
 
 #nodejs #definition 

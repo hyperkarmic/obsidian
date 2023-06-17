@@ -31,6 +31,20 @@ Accessing the DOM is essential for getting the most out of your program, but doi
 
 Instead, access it once and cache it for later use in a variable. From then on, you can access that variable instead of the DOM directly. This process is visually cleaner and more efficient.
 ***
+![[additionalDomMethods.jpg]]
+***
+![[access-dom.jpg]]
+***
+
+![[dom-methods.jpg]]
+***
+![[methods-to-grab-elements.jpg]]
+
+***
+![[methods-to-save-nodes.jpg]]
+***
+
+![[modify-dom.jpg]]
 
 #DOM #Methods
 #javascript #js 

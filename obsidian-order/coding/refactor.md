@@ -1,6 +1,11 @@
 # refactor
 ## How to refactor a project?
 
+"
+__Always be refactoring. If you touch the code, and you can improve it, improve it, but never optimise early__.”
+
+" - a Precis od Fowlers work on the subject....
+
 Here are some tips:
 
 -   Split the project into multiple modules and refactor only one part at a time.

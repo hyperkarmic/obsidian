@@ -20,4 +20,8 @@ Which, means foreach outer layer, each outer layer should only reference the clo
 ![[clean-arch.jpg]]
 ***
 
+![[clean-architecture.webp]]
+
+
+
 #bob-martin #clean-architecture #architecture

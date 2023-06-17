@@ -16,5 +16,10 @@ The model code will **contain some kind of database, or just raw data**. If the
 ***
 ![[model.png]]
 ***
+![[models-mvc.jpg]]
+***
+![[mvc-model-def.jpg]]
+***
+
 
 #model #mvc #schema  

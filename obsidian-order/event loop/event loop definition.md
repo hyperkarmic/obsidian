@@ -67,4 +67,16 @@ It’s important to note that the event loop is constantly running and checking 
 This mechanism allows the program to not block and wait for an async operation to complete, the async operation will be pushed to the message queue and the program will continue to execute, when the operation is completed it will be pushed to the call stack to be executed.
 ***
 So, to summerise what the the event loop is doing is, that it constantly checks the call stack and message queue, and if it finds some, it processes that message. By doing so, it allows JavaScript to execute code in a non-blocking way.
+***
+![[event-loop.webp]]
+***
+![[event-loop-tick.jpg]]
+
+***
+![[event-loop_x.jpg]]
+
+***
+
+![[e-loop.jpg]]
+
 #event-loop #js #javascript 

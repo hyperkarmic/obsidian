@@ -4,6 +4,10 @@ In consultation with the customer or [product owner](https://www.agilealliance.
 Each user story is expected to yield, once implemented, a contribution to the value of the overall product, irrespective of the order of implementation; these and other assumptions as to the nature of user stories are captured by the [INVEST](https://www.agilealliance.org/glossary/invest/) formula.
 
 To make these assumptions tangible, user stories are reified into a physical form: an index card or sticky note, on which a brief descriptive sentence is written to serve as a reminder of its value. This emphasizes the “atomic” nature of user stories and encourages [direct physical manipulation](http://en.wikipedia.org/wiki/Direct_manipulation_interface): for instance, decisions about scheduling are made by physically moving around these “story cards.”
+***
+
+![[user-story-reflection.jpg]]
+
 
 #user-stories
 #agile #scrum 

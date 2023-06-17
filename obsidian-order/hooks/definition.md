@@ -93,6 +93,18 @@ When you take an initial look at the React Hooks documentation, you’ll see tha
 ***
 ![[hooks2.png]]
 ***
+# So where do React Hooks fit in?
 
+React Hooks are a functional programming approach for abstracting away complexity from managing the state (i.e. mutable variables) of an app.
+***
+![[react-hooks.jpg]]
+***
+![[why-hooks-are-good.jpg]]
+***
+![[what-are-hooks.jpg]]
+***
+![[react-hooks.jpg]]
+***
+![[rules-of-hooks.jpg]]
 #react #hooks
 #definition 

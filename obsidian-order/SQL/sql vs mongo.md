@@ -3,5 +3,7 @@
 ![[sqlvsmongo.png]]
 ***
 ![[sql-vs-no-sequal.jpg]]
+***
+![[sqlvsnosql.png]]
 #SQL #Mongo
 #database #databases 

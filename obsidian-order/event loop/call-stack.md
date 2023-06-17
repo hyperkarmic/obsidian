@@ -14,7 +14,8 @@ Callback functions that need to be asynchronously executed, are pushed onto the 
 These are later pushed to the Call stack to be executed (when the event loop finds an empty call stack).
 ***
 ![[callstack.jpg]]
-
+***
+![[callstack.webp]]
 #call-stack
 #event-loop
 #execution-context

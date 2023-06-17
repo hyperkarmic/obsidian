@@ -127,4 +127,8 @@ There are different types of testing commonly used which include: black box and 
 ![[software-lifecycle.jpg]]
 ***
 ![[tdd.jpg]]
+***
+![[tdd.png]]
+***
+![[tdd-manuscript.png]]
 #tests #defintion #TDD #tdd

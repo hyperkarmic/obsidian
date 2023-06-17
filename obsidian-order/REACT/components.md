@@ -97,6 +97,10 @@ Here are some of the biggest mistakes leading to nothing but pain and frustratio
 -   Building components coupled with several moving parts
 -   Adding business logic in components
 ***
+![[compo.jpg]]
+***
+![[compos.jpg]]
+
 
 #components 
 #REACT #react 

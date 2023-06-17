@@ -57,6 +57,9 @@ DevOps lifecycle consists of 8 processes that include:
 -   **Breaking down silos** - DevOps has replaced the antiquated linear process in which one team would finish all responsibilities related to a project before handing it off to another team to continue working on it, and so on.
 -   **Software quality** - Because DevOps facilitates frequent releases, it's easier to discover and fix problems which in turn results in higher software stability. Because of this, there is more time to concentrate on quality and innovations.
 ***
+![[devops.png]]
+***
+![[dev-ops-quote.png]]
 
 #dev-ops
 #definition 

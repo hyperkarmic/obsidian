@@ -16,5 +16,11 @@ Session storage is a useful tool for storing data in the browser that is only ne
 -   Storing data for a quiz: Session storage can be used to store data from a quiz, such as the user’s answers and score, so that it is available as they move from question to question.
 -   Storing data for a game: Session storage can be used to store data from a game, such as the current level or score, so that it is available as the user plays the game.#
 ***
-
+![[how-to-session-storage.jpg]]
+***
+![[how-to-read-session-storage.jpg]]
+***
+![[session-storage.jpg]]
+***
+![[using-session-storage.jpg]]
 #session-storage

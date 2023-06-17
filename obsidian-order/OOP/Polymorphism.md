@@ -9,5 +9,9 @@ In the context of programming, polymorphism means — in abstract terms — when
 **Subtype-Polymorphism**
 
 If people talk about polymorphism, they usually mean this type of polymorphism. This is also the most simplest kind of polymorphism. When subtyping, an object of a subtype can be used everywhere where it’s supertype is used. For example:
+***
+![[polymorphism.jpg]]
+***
+
 #polymorphism
 #js #javascript #oop

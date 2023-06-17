@@ -110,7 +110,7 @@ Once the user flows have been determined, the designer knows what steps the user
 
 With prototypes to hand, the UX designer will then conduct usability tests to see how users interact with the product. This shows whether or not the user is able to complete their desired tasks, or if changes need to be made.
 ***
-
+![[obsidian/obsidian-order/UX-UI/img/ux-design.png]]
 
 
 #UX #design #UI 

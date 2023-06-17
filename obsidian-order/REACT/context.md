@@ -81,5 +81,7 @@ It’s pretty easy to use, but you need to take into consideration that updates 
 
 You can imagine React’s context as some kind of a “wormhole” that you can pass values through somewhere up your component tree and access them further down in your children’s components.
 ***
-
+![[context-example.jpeg]]
+***
+![[context-api.jpg]]
 #react #context

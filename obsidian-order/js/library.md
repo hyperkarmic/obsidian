@@ -8,7 +8,10 @@ is a library that contains pre-written, useful JavaScript codes that anyone can 
 ***
 A library is a collection of specific tools and features that you can add to your website for functionality. Unlike a framework, a library does not offer any structure but rather implements different behaviors and actions on your webpage.
 ***
-
-
+![[lib-upsides.jpg]]
+***
+![[lib-downsides.jpg]]
+***
+![[lib-vs-framework.jpg]]
 #library 
 #js #javascript #js-library #javascript-library

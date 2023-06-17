@@ -11,5 +11,14 @@ __React: a__ library __for building web applications in a declarative fashion.
 
 ![[react.png]]   
 ***
+![[react_is_a_humble_library.jpg]]
+***
+![[what-react.jpg]]
+***
+
+![[why-react.jpg]]
+
+
+
 
 #mission  #react

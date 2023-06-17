@@ -63,6 +63,12 @@ A PWA, by its original definition, must meet these three requirements:
 
 These components allow you to pass the [Google Lighthouse PWA audit](https://web.dev/lighthouse-pwa/) and get the green checkmark on your score.
 ***
-
+![[peeWA.jpg]]
+***
+![[pwa.png]]
+***
+![[pwa-101.jpg]]
+***
+![[pwa-requirments.jpg]]
 
 #PWA

@@ -27,5 +27,9 @@ Each of these components work together to execute the JavaScript code by interpr
 This phase is where the code’s logic and functionality are executed, and where the program produces output. The engine keeps track of the current state of the program, including the values of variables and the call stack, to manage the program flow and handle function calls. The call stack, on the other hand, keeps track of the function calls. The heap stores the objects and data. The event loop handles the execution of code in a non-blocking manner, and the Web APIs are used for interacting with the browser.
 
 As you probably know, JavaScript is a single-threaded language, and during the execution phase, the engine processes one instruction at a time, in the order they appear in the code, this means that it can only perform one task at a time. During that time lots of things can go wrong. Understanding the execution phase and how the engine works can help you write better and more efficient code, by avoiding common pitfalls and identifying performance bottlenecks.
+***
+![[CE-1stPhase-GEC.jpg]]
+
+
 #execution-phase
 #execution-context 

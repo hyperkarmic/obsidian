@@ -28,5 +28,30 @@ With `call`, the additional arguments are passed as a normal comma-separated li
 
 With `bind` we create a new function and bind it to `this` permanently.
 ***
+![[apply.jpg]]
+***
+![[apply-bind-call.jpg]]
+***
+![[apply-method.jpg]]
+***
+![[apply().jpg]]
+***
+![[apply2.jpg]]
+***
+![[bind.jpg]]
+***
+
+![[bind-method.jpg]]
+***
+![[bind().jpg]]
+***
+![[bind2.jpg]]
+***
+![[call.jpg]]
+![[call-method.jpg]]
+***
+![[call().jpg]]
+***
+![[call2.jpg]]
 
 #js #javascript #call #apply #bind

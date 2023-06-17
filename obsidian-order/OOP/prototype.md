@@ -17,5 +17,22 @@ The question is what if we want to do inheritance to another Prototype? This can
 JavaScript, it’s no longer recommended to practice OOP using Prototype, because in ES6 the class keyword has been introduced which will be discussed in a separate chapter.
 ***
 ![[prototype-chain.jpg]]
+***
+A _Prototype_ is an object that exists as a property on every function in JavaScript.
+
+Object does not have _prototype_ property. It has ___proto___ property.
+***
+# Summary
+
+-   Function and Object linked with an arbitrary linkage called ._prototype_.
+-   _[[Prototype]]_ is an internal linkage which get created after executing any function with “_new_” keyword.
+-   ___proto___ is a public property of _Object.prototype_ to access the _[[Prototype]]_ linkage.
+-   _Object.getPrototypeOf()_ is a method to access the _[[Prototype]]_ linkage.
+-   Constructor is a function, called with _new_ keyword in front of it but ._constructor_ is a property.
+-   ___proto___ can be pronounced as _dunder proto_
+***
+![[classic-vs-proto-inheritance.webp]]
+***
+![[prototype-inheritance-js.webp]]
 #prototype
 #OOP #js #javascript 

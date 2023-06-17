@@ -53,5 +53,9 @@ The most obvious solution to that problem is to phase features in slowly — you
 ![[typescript.jpg]]
 ***
 ![[typescript-interface.jpg]]
+***
+![[ts-cheatsheet.jpg]]
+***
+
 #typescript
 #definition 

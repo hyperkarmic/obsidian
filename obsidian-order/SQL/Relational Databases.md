@@ -30,3 +30,5 @@ A good example of a hierarchical database is one most people have seen at some p
 -   Below this level are the members of the leaders’ teams
 ***
 ![[relational-database.jpg]]
+***
+![[reldat.png]]

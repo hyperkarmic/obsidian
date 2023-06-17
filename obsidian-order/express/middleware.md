@@ -55,10 +55,21 @@ The big difference about a middleware and a route handler **is the next() funct
 ***
 ![[middleware.png]]
 ***
-Middleware is a piece of code (function) that is used to execute some code after the server gets a call from a client and before the controller action which will send a response. So it means that whenever a client will call an API, before reaching the request to that API (route), middleware code will be executed.
+![[middleware3.jpg]]Middleware is a piece of code (function) that is used to execute some code after the server gets a call from a client and before the controller action which will send a response. So it means that whenever a client will call an API, before reaching the request to that API (route), middleware code will be executed.
 ***
 ![[middleware2.png]]
 ***
+![[middleware.jpg]]
+***
+![[middleware1.jpg]]
+***
+![[middleware2.jpg]]
+***
+![[middleware3.jpg]]
+***
+![[middleware4.jpg]]
+***
+![[net-ninja-node-howto-middleware.png]]
 
 #middleware
 #express

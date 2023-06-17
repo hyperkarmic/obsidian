@@ -37,6 +37,6 @@ Lexical environment is created when you enter a block of code or when a function
 
 A lexical environment is associated with each execution context, and it is used to look up the values of variables and functions. When a variable or function is accessed, the JavaScript engine uses the current execution context’s lexical environment to determine its value.
 ***
-
+![[lexical-scoping.jpg]]
 #lexical-environment
 #execution-context 

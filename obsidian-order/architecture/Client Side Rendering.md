@@ -30,5 +30,8 @@ Despite these advantages, there are also disadvantages you have to keep in mind:
 -   Although CSR provides more control over **SEO**, search engines may not be able to crawl and index the dynamically generated content properly, leading to decreased visibility.
 -   CSR increases the attack surface area as it requires the execution of untrusted JavaScript code on the client-side, increasing the risk of **security** vulnerabilities such as cross-site scripting (XSS).
 -   As the processing burden shifts from the server to the client, the client’s **performance** can become a bottleneck, especially for resource-intensive applications.
+![[client-side-rendering.webp]]
+***
+![[csr.jpg]]
 
 #cliient-side-rendering #CSR #architecture

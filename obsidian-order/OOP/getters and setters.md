@@ -17,6 +17,8 @@ get side1() {return this.side1 = side1;  }}
 -   The _set_ keyword binds an object property to a method that will be invoked when that property is assigned.
 -   The _get_ keyword binds an object property to a method that will be invoked when that property is looked up.
 ***
+![[why-getters&setters.jpg]]
+***
 
 #getter
 #setter

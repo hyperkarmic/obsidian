@@ -69,5 +69,17 @@ There are four main types of technical debt:
 ***
 
 Interest on technical debt takes one of these four forms as well, revealing its dangerous property to grow exponentially.
+***
+![[build-tech-debt-register.jpg]]
+***
+![[traits-of-tech-debt.jpg]]
+
+***
+
+![[using-tech-debt-reg.jpg]]
+
+
+
+
 #technical-debt
 #coding #Fowler 

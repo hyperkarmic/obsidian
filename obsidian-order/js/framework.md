@@ -4,6 +4,12 @@ _[avascript framework](https://geekflare.com/javascript-frameworks-for-api/)_ h
 ***
 You could build a webpage completely from scratch, but it takes a lot of time, especially when you want to add more complexity. That’s where JavaScript frameworks come in handy. A framework is like a prepackaged structure of pre-written code for your website that determines how programs should interact.
 ***
-.
+
+
+![[diff-lib-framework.jpg]]
+***
+![[framework-upsides.jpg]]
+***
+![[framework-downsaides.jpg]]
 
 #framework #js-framework #javascript-framework

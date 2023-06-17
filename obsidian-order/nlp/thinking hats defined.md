@@ -13,6 +13,7 @@
 -   **Black Hat:** The black hat makes us consider the reasons why something may not work, why it may be illegal, why it may go wrong, or why it’s not worth doing but the reason must be logical (if it’s emotional, that is red hat).
 ### purple hat 👾 👑💜
 -   **Purple Hat:** The Royal hat reflects the perspective of the owner who is both committed and invested in the meeting output and project outcome. May have difficulty switching perspectives because they own return on the investment.
-
+****
+![[thinking-hats.jpg]]
 #shortcuts #nlp
 #debono

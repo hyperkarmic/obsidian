@@ -11,6 +11,7 @@ Coding: Code is essentially a bunch of ideas that are systematically arranged in
 ***
 ![[complexity.png]]
 ***
-
-
+![[code-4-humans.png]]
+***
+![[read-code.png]]
 #coding #definition 

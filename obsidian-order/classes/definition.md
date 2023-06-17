@@ -20,4 +20,26 @@ Class is a blueprint, prototype, or template for creating an Object. Class conta
 
 
 Every object is always created in Class. And a class can create an unlimited object
+***
+![[class-def.jpg]]
+***
+# Class and Object
+
+-   Object is a thing which can be seen or touched and in software we try to represent the same real-life thing with object.
+-   Object Oriented Programing is nothing but code around that object.
+-   Class is not an object, it’s like blueprint which can generate objects. So, class helps to set the classification of objects with its properties and capabilities.
+-   Any number of instance can be created from a class, each instance is called Object.
+***
+a js class example
+
+```javascript
+class Person { constructor(name, age) { this.name = name; this.age = age; } greet() { console.log(`Hello, my name is ${this.name}, and I am ${this.age} years old.`); } } const john = new Person('John', 25); john.greet(); // Output: Hello, my name is John, and I am 25 years old.
+```
+
+another one
+
+```javascript
+class Employee extends Person { constructor(name, age, title) { super(name, age); this.title = title; } work() { console.log(`${this.name} is working as a ${this.title}.`); } } const alice = new Employee('Alice', 30, 'Software Developer'); alice.greet(); // Output: Hello, my name is Alice, and I am 30 years old. alice.work(); // Output: Alice is working as a Software Developer.
+```
+
 #classes #class #OOP 

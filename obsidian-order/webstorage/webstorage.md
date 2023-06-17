@@ -1,0 +1,6 @@
+
+![[web-storage.jpg]]
+
+
+
+#webstorage 

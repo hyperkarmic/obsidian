@@ -1,0 +1,11 @@
+1.  **Divide and Conquer:** this is a clever way to tackle a problem. First, subdivide the problem into smaller subproblems, solve those smaller problems and combine all the solutions into the problem’s final solution.
+2.  **Brute force:** involve trying all possible solutions until a satisfactory solution is found.
+3.  **Randomized:** use a random number during the computation to find a solution to the problem.
+4.  **Greedy:** looking for an efficient solution on the smaller part, then expanding this optimum solution to the rest of the parts
+5.  **Recursive:** are used to tackle larger and more difficult versions of a problem by solving smaller, simpler variations.
+6.  **Backtracking:** is computer programming technique that divide a problem into sub problems, then takes each to an attempted solution. If the desired solution is not reached it will work backwards by finding a path that moves it forward in the problem.
+7.  **Dynamic Programming:** focuses on solving complex problems in a series of simpler problems that are solved only one time rather than re-computing for each single problem. After at least computing it for once then you need to store it somewhere to re-call it when necessary
+8.  **Pointer Traversal or Pathfinding:** when searching a graph or network, it’s important to use a proven search algorithm. A pointer traversal is a type of search algorithm that can be used to find the shortest route from one node of the graph to another. For instance, if we want to find the shortest route from Node 1 to Node 2 using pointer traversal then we would start by looking for the nearest neighbor of Node 1 and then, if there is none, looking for the nearest neighbor of the node’s parent
+9.  **Hash Table**: Hash table algorithms are used for a variety of purposes, such as collision detection and pathfinding. Collision detection is when you want to ensure that two objects don’t intersect with each other, while pathfinding is the process of calculating the shortest distance between two or more points.
+
+#algorithms #problem-solving 

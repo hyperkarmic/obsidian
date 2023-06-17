@@ -131,3 +131,32 @@ Closures have a wide range of uses. Here are a few common use cases for closures
 -   Asynchronous programming: Closures are often used in asynchronous programming, such as with callbacks or Promises, to preserve the value of variables when a function is called at a later time.
 -   Event handlers: Closures are frequently used to create event handlers in JavaScript. For example, when you add an event listener to a DOM element, the event handler function is likely to be a closure that captures the element and any other necessary data.
 -   Iteration: Closures can be used to create functions that iterate over a sequence of values. For example, the Array.prototype.forEach() method uses a closure to execute a function for each element in an array.
+-
+
+***
+![[closurer.jpg]]i
+
+***
+![[closure-use.jpg]]
+
+***
+![[closure-use-cases.jpg]]
+***
+![[closure-use2.jpg]]
+***
+![[closure-use3.jpg]]
+***
+![[closure-use4.jpg]]
+***
+![[closure-js.jpg]]
+***
+![[closure-drawbacks.jpg]]
+***
+![[closure-curry.jpg]]i***
+![[holberg-closures.jpg]]
+***
+Like objects, closures are a mechanism for containing state. In JavaScript, a closure is created whenever a function accesses a variable defined outside the immediate function scope. It’s easy to create closures: Simply define a function inside another function, and expose the inner function, either by returning it, or passing it into another function. The variables used by the inner function will be available to it, even after the outer function has finished running.
+
+You can use closures to create data privacy in JavaScript using a factory function:
+***
+![[closure-def.jpg]]

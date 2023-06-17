@@ -8,5 +8,18 @@ JSX is the return value of the render( ) method.
 
 JSX is a JavaScript extension and stands for JavaScript XML. It allows you to write what looks like HTML in your JavaScript code. It is commonly used in the ReactJS library to describe how a user interface should be displayed.
 ***
+![[jsx.jpg]]
+***
+![[jsx_.jpg]]
+***
+![[jsx-map.jpg]]
+***
+![[jsx-transpiler.jpg]]
+***
+![[jsx2.jpg]]
+***
+![[jsx3.jpg]]
+***
+![[jsx-render.jpg]]
 
 #JSX #react #REACT

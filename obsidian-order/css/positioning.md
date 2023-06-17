@@ -33,6 +33,6 @@ So, the quirks this position element gets from static/relative is that it follow
 ***
 ![[css-pos.jpg]]
 ***
-
+![[css-positioning.jpeg]]
 
 #positioning #CSS 

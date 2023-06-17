@@ -105,5 +105,36 @@ Here I will try to give a strict and concise algorithm, with the help of which e
 5.If this function is received as a property of the object and called, then “this” will be equal to the given object, if not, we go down to the last paragraph
 
 6.If the function is called in strict mode “use strict” then “this” is equal to `undefined` otherwise it is equal to the global object!
+***
+**_this_** keyword refers to an object, that object which is executing the current bit of javascript code.
 
-. #this
+In other words, every javascript function while executing has a reference to its current execution context, called **_this_**. Execution context means here is how the function is called.
+
+To understand _this_ keyword, only we need to know how, when and from where the function is called, does not matter how and where function is declared or defined.
+***
+## Precedence of “this” keyword bindings
+
+-   First it checks whether the function is called with **_new_** keyword.
+-   Second it checks whether the function is called with _call()_ or _apply()_ method means explicit binding.
+-   Third it checks if the function called via context object (implicit binding).
+-   Default global object (undefined in case of strict mode).
+***
+![[obsidian/obsidian-order/this/img/this/this.jpg]]
+
+ ***
+ ![[this-hierachy.jpg]]
+ ***
+ ![[this-is.jpg]]
+ ***
+ ![[this-rules.jpg]]
+ ***
+ ![[this-summary.jpg]]
+ ***
+ ![[this-use.jpg]]
+ ***
+ ![[this2.jpg]]
+ ***
+ 
+ ![[using-this-in-event-listener.jpg]]
+ 
+ #this

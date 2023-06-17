@@ -9,5 +9,7 @@ Higher-order Function: Functions that accept functions as parameters and/or retu
 ****
 
 Higher-order functions: functions that operate on other functions, either by taking them as arguments or returning them
+***
+![[HOF.webp]]
 #hof #functions #higher-order-functions
 

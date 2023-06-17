@@ -16,4 +16,8 @@ Compose, on the other hand, is a way to combine multiple functions such that the
 Both pipe and compose can be used to make code more readable and maintainable by breaking down complex operations into smaller, more focused functions that can be easily reused and tested. They also allow you to more easily change or modify the behavior of your code by modifying or replacing individual functions within the pipe or compose chain.
 ***
 In addition to using the Array.prototype.reduce() method to implement pipe and compose, you can also use other techniques such as recursion or a simple loop. The choice of implementation will depend on your needs and preferences, and may also be influenced by performance considerations.
+***
+![[compose-FP.jpg]]
+***
+![[composition.jpg]]
 #CI #composition #fp #functional

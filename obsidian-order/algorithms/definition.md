@@ -4,4 +4,7 @@
 ![[algo.png]]
 ***
 ![[algo.jpg]]
+***
+![[important-algos.jpeg]]
+
 #algorithms #definition 
